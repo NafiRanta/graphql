@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	b "graphql/backend"
+	g "graphql/database"
 	"net/http"
 )
 
@@ -18,7 +18,8 @@ func startServer() {
 	mux := http.NewServeMux()
 
 	//all handlers
-	mux.HandleFunc("/login", b.GraphqlHandler)
+	mux.HandleFunc("/api/graphql-engine/v1/graphql", g.GraphqlHandler)
+	mux.HandleFunc("/api/auth/signin", g.SignInHandler)
 	mux.Handle("/", http.FileServer(http.Dir("./frontend")))
 	// serve frontend
 	err := http.ListenAndServe(":8080", mux)

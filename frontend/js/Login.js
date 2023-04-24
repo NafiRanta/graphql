@@ -31,14 +31,14 @@ class Login extends HTMLElement{
                     <!--Email-->
                     <!-- <h2>Email</h2> -->
                     <div class="form__input-error-message" id="loginEmailErrMsg"></div>
-                    <input type="text" class="form__input" autofocus placeholder="Email" id="loginEmail" name="email" required>
+                    <input type="text" class="form__input" autofocus placeholder="Email" id="email" name="email" required>
                 </div>
  
                 <div class="form__input-group">
                     <!--password-->
                     <!-- <h2>Password</h2> -->
                     <div class="form__input-error-message" id="loginPasswordErrMsg"></div>
-                    <input type="password" class="form__input" autofocus placeholder="Password" id="loginPassword" name="password" required>
+                    <input type="password" class="form__input" autofocus placeholder="Password" id="password" name="password" required>
                     
                 </div>
  

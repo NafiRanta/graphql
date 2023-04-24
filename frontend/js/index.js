@@ -1,5 +1,7 @@
+
+
 document.querySelector("login-page").style.display = "block";
-document.querySelector("home-page").style.display = "none";
+document.querySelector("dashboard-page").style.display = "none";
 
 
 const username = document.querySelector('#username').value;
