@@ -28,13 +28,6 @@ class Login extends HTMLElement{
                 </div>
  
                 <div class="form__input-group">
-                    <!--Email-->
-                    <!-- <h2>Email</h2> -->
-                    <div class="form__input-error-message" id="loginEmailErrMsg"></div>
-                    <input type="text" class="form__input" autofocus placeholder="Email" id="email" name="email" required>
-                </div>
- 
-                <div class="form__input-group">
                     <!--password-->
                     <!-- <h2>Password</h2> -->
                     <div class="form__input-error-message" id="loginPasswordErrMsg"></div>

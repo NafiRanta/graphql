@@ -19,7 +19,7 @@ func startServer() {
 
 	//all handlers
 	mux.HandleFunc("/api/graphql-engine/v1/graphql", g.GraphqlHandler)
-	mux.HandleFunc("/api/auth/signin", g.SignInHandler)
+	mux.HandleFunc("/signin", g.SignInHandler)
 	mux.Handle("/", http.FileServer(http.Dir("./frontend")))
 	// serve frontend
 	err := http.ListenAndServe(":8080", mux)
