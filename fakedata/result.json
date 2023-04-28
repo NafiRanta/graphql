@@ -1,0 +1,4856 @@
+{
+    "data": {
+        "result": [
+            {
+                "id": 59714,
+                "objectId": 100415,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T12:23:42.234235+00:00",
+                "updatedAt": "2023-01-09T12:23:42.234235+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/method-man"
+            },
+            {
+                "id": 59695,
+                "objectId": 100415,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T12:19:23.850158+00:00",
+                "updatedAt": "2023-01-09T12:19:23.850158+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/method-man"
+            },
+            {
+                "id": 59743,
+                "objectId": 100416,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T12:29:53.971907+00:00",
+                "updatedAt": "2023-01-09T12:29:53.971907+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/abs"
+            },
+            {
+                "id": 59760,
+                "objectId": 100417,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T12:33:37.722538+00:00",
+                "updatedAt": "2023-01-09T12:33:37.722538+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/min-max"
+            },
+            {
+                "id": 59865,
+                "objectId": 100419,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T13:13:15.115774+00:00",
+                "updatedAt": "2023-01-09T13:13:15.115774+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/is"
+            },
+            {
+                "id": 59894,
+                "objectId": 100371,
+                "userId": null,
+                "grade": 1.7249999999999999,
+                "type": "user_audit",
+                "createdAt": "2023-01-09T13:25:40.43926+00:00",
+                "updatedAt": "2023-01-09T13:25:40.43926+00:00",
+                "path": "/gritlab/school-curriculum/output"
+            },
+            {
+                "id": 59899,
+                "objectId": 100419,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T13:29:20.850611+00:00",
+                "updatedAt": "2023-01-09T13:29:20.850611+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/is"
+            },
+            {
+                "id": 59914,
+                "objectId": 100419,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T13:34:54.622328+00:00",
+                "updatedAt": "2023-01-09T13:34:54.622328+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/is"
+            },
+            {
+                "id": 59977,
+                "objectId": 100423,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T14:00:32.903384+00:00",
+                "updatedAt": "2023-01-09T14:00:32.903384+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/physics"
+            },
+            {
+                "id": 60067,
+                "objectId": 100424,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T14:49:54.980346+00:00",
+                "updatedAt": "2023-01-09T14:49:54.980346+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/collections"
+            },
+            {
+                "id": 60135,
+                "objectId": 100424,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T15:37:31.771757+00:00",
+                "updatedAt": "2023-01-09T15:37:31.771757+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/collections"
+            },
+            {
+                "id": 60142,
+                "objectId": 100424,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T15:41:54.574703+00:00",
+                "updatedAt": "2023-01-09T15:41:54.574703+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/collections"
+            },
+            {
+                "id": 60150,
+                "objectId": 100424,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T15:47:02.589243+00:00",
+                "updatedAt": "2023-01-09T15:47:02.589243+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/collections"
+            },
+            {
+                "id": 60286,
+                "objectId": 100425,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T19:06:44.331374+00:00",
+                "updatedAt": "2023-01-09T19:06:44.331374+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/block-chain"
+            },
+            {
+                "id": 60287,
+                "objectId": 100421,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T19:10:29.751426+00:00",
+                "updatedAt": "2023-01-09T19:10:29.751426+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/returns"
+            },
+            {
+                "id": 60290,
+                "objectId": 100365,
+                "userId": null,
+                "grade": 2.25,
+                "type": "user_audit",
+                "createdAt": "2023-01-09T19:23:50.221777+00:00",
+                "updatedAt": "2023-01-09T19:23:50.221777+00:00",
+                "path": "/gritlab/school-curriculum/exportfile"
+            },
+            {
+                "id": 60973,
+                "objectId": 100433,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T07:07:21.332024+00:00",
+                "updatedAt": "2023-01-11T07:07:21.332024+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/repeat"
+            },
+            {
+                "id": 60975,
+                "objectId": 100427,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T07:08:02.072907+00:00",
+                "updatedAt": "2023-01-11T07:08:02.072907+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/elementary"
+            },
+            {
+                "id": 60979,
+                "objectId": 100428,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T07:11:02.403674+00:00",
+                "updatedAt": "2023-01-11T07:11:02.403674+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/index-of"
+            },
+            {
+                "id": 60980,
+                "objectId": 100429,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T07:11:42.112271+00:00",
+                "updatedAt": "2023-01-11T07:11:42.112271+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/slicer"
+            },
+            {
+                "id": 60982,
+                "objectId": 100434,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T07:12:23.944263+00:00",
+                "updatedAt": "2023-01-11T07:12:23.944263+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/keep-cut"
+            },
+            {
+                "id": 61201,
+                "objectId": 100435,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T08:48:26.054264+00:00",
+                "updatedAt": "2023-01-11T08:48:26.054264+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/cut-corners"
+            },
+            {
+                "id": 61272,
+                "objectId": 100435,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T09:23:54.598743+00:00",
+                "updatedAt": "2023-01-11T09:23:54.598743+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/cut-corners"
+            },
+            {
+                "id": 61488,
+                "objectId": 100436,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T11:12:20.332882+00:00",
+                "updatedAt": "2023-01-11T11:12:20.332882+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/reverser"
+            },
+            {
+                "id": 61487,
+                "objectId": 100435,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T11:11:45.937184+00:00",
+                "updatedAt": "2023-01-11T11:11:45.937184+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/cut-corners"
+            },
+            {
+                "id": 61617,
+                "objectId": 100437,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T12:23:30.427325+00:00",
+                "updatedAt": "2023-01-11T12:23:30.427325+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/unbreakable"
+            },
+            {
+                "id": 61623,
+                "objectId": 100430,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T12:24:59.899067+00:00",
+                "updatedAt": "2023-01-11T12:24:59.899067+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/chunky"
+            },
+            {
+                "id": 61626,
+                "objectId": 100431,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T12:25:45.298157+00:00",
+                "updatedAt": "2023-01-11T12:25:45.298157+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/nasa"
+            },
+            {
+                "id": 61627,
+                "objectId": 100432,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T12:26:52.597569+00:00",
+                "updatedAt": "2023-01-11T12:26:52.597569+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/molecules-cells"
+            },
+            {
+                "id": 61642,
+                "objectId": 100438,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T12:29:15.596297+00:00",
+                "updatedAt": "2023-01-11T12:29:15.596297+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/get"
+            },
+            {
+                "id": 61649,
+                "objectId": 100439,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T12:31:24.370065+00:00",
+                "updatedAt": "2023-01-11T12:31:24.370065+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/triangle"
+            },
+            {
+                "id": 61798,
+                "objectId": 100440,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T14:04:01.80587+00:00",
+                "updatedAt": "2023-01-11T14:04:01.80587+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/pyramid"
+            },
+            {
+                "id": 61799,
+                "objectId": 100441,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T14:04:37.168737+00:00",
+                "updatedAt": "2023-01-11T14:04:37.168737+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/flat"
+            },
+            {
+                "id": 61815,
+                "objectId": 100441,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T14:13:21.968535+00:00",
+                "updatedAt": "2023-01-11T14:13:21.968535+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/flat"
+            },
+            {
+                "id": 61948,
+                "objectId": 100442,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T16:01:43.130064+00:00",
+                "updatedAt": "2023-01-11T16:01:43.130064+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/find-expression"
+            },
+            {
+                "id": 61949,
+                "objectId": 100443,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-11T16:01:51.503369+00:00",
+                "updatedAt": "2023-01-11T16:01:51.503369+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/loop/sums"
+            },
+            {
+                "id": 63220,
+                "objectId": 100451,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T07:06:48.100801+00:00",
+                "updatedAt": "2023-01-13T07:06:48.100801+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/group-price"
+            },
+            {
+                "id": 63200,
+                "objectId": 100445,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T06:18:28.243017+00:00",
+                "updatedAt": "2023-01-13T06:18:28.243017+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/its-a-match"
+            },
+            {
+                "id": 63201,
+                "objectId": 100446,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T06:19:31.936062+00:00",
+                "updatedAt": "2023-01-13T06:19:31.936062+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/letter-space-number"
+            },
+            {
+                "id": 63203,
+                "objectId": 100447,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T06:20:14.591082+00:00",
+                "updatedAt": "2023-01-13T06:20:14.591082+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/vowel-dots"
+            },
+            {
+                "id": 63216,
+                "objectId": 100448,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T07:04:05.010538+00:00",
+                "updatedAt": "2023-01-13T07:04:05.010538+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/same-amount"
+            },
+            {
+                "id": 63217,
+                "objectId": 100449,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T07:04:55.087699+00:00",
+                "updatedAt": "2023-01-13T07:04:55.087699+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/ion-out"
+            },
+            {
+                "id": 63219,
+                "objectId": 100450,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T07:05:30.776714+00:00",
+                "updatedAt": "2023-01-13T07:05:30.776714+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/greedy-url"
+            },
+            {
+                "id": 63223,
+                "objectId": 100452,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-13T07:11:42.847614+00:00",
+                "updatedAt": "2023-01-13T07:11:42.847614+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/find/valid-ip"
+            },
+            {
+                "id": 64491,
+                "objectId": 100455,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:29:31.990947+00:00",
+                "updatedAt": "2023-01-16T08:29:31.990947+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/dr-strange"
+            },
+            {
+                "id": 64492,
+                "objectId": 100454,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:29:41.818319+00:00",
+                "updatedAt": "2023-01-16T08:29:41.818319+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/date-is"
+            },
+            {
+                "id": 64493,
+                "objectId": 100456,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:29:48.251894+00:00",
+                "updatedAt": "2023-01-16T08:29:48.251894+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/get-some-time"
+            },
+            {
+                "id": 64494,
+                "objectId": 100457,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:29:55.350508+00:00",
+                "updatedAt": "2023-01-16T08:29:55.350508+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/rebecca-black"
+            },
+            {
+                "id": 64495,
+                "objectId": 100458,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:30:03.003215+00:00",
+                "updatedAt": "2023-01-16T08:30:03.003215+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/match-cron"
+            },
+            {
+                "id": 64496,
+                "objectId": 100459,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:30:08.855505+00:00",
+                "updatedAt": "2023-01-16T08:30:08.855505+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/count-leap-years"
+            },
+            {
+                "id": 64499,
+                "objectId": 100460,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:30:48.982669+00:00",
+                "updatedAt": "2023-01-16T08:30:48.982669+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/day-of-the-year"
+            },
+            {
+                "id": 64500,
+                "objectId": 100461,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T08:30:54.420158+00:00",
+                "updatedAt": "2023-01-16T08:30:54.420158+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/bloody-sunday"
+            },
+            {
+                "id": 65024,
+                "objectId": 100462,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-16T19:04:01.163344+00:00",
+                "updatedAt": "2023-01-16T19:04:01.163344+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/time/unicode-technical-report-35"
+            },
+            {
+                "id": 65109,
+                "objectId": 100464,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:35:10.862923+00:00",
+                "updatedAt": "2023-01-17T06:35:10.862923+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/using-map"
+            },
+            {
+                "id": 65111,
+                "objectId": 100465,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:35:29.306582+00:00",
+                "updatedAt": "2023-01-17T06:35:29.306582+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/using-filter"
+            },
+            {
+                "id": 65112,
+                "objectId": 100466,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:35:35.070422+00:00",
+                "updatedAt": "2023-01-17T06:35:35.070422+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/using-reduce"
+            },
+            {
+                "id": 65113,
+                "objectId": 100467,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:35:44.301809+00:00",
+                "updatedAt": "2023-01-17T06:35:44.301809+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/long-words"
+            },
+            {
+                "id": 65114,
+                "objectId": 100468,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:35:49.69594+00:00",
+                "updatedAt": "2023-01-17T06:35:49.69594+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/for-each"
+            },
+            {
+                "id": 65115,
+                "objectId": 100469,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:35:55.561303+00:00",
+                "updatedAt": "2023-01-17T06:35:55.561303+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/mapper"
+            },
+            {
+                "id": 65116,
+                "objectId": 100470,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:01.490647+00:00",
+                "updatedAt": "2023-01-17T06:36:01.490647+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/filter"
+            },
+            {
+                "id": 65117,
+                "objectId": 100471,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:07.749364+00:00",
+                "updatedAt": "2023-01-17T06:36:07.749364+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/reduce"
+            },
+            {
+                "id": 65118,
+                "objectId": 100472,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:14.485284+00:00",
+                "updatedAt": "2023-01-17T06:36:14.485284+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/quantifiers"
+            },
+            {
+                "id": 65119,
+                "objectId": 100473,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:19.873251+00:00",
+                "updatedAt": "2023-01-17T06:36:19.873251+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/sweet-curry"
+            },
+            {
+                "id": 65120,
+                "objectId": 100474,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:26.730056+00:00",
+                "updatedAt": "2023-01-17T06:36:26.730056+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/has-city"
+            },
+            {
+                "id": 65121,
+                "objectId": 100475,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:32.755601+00:00",
+                "updatedAt": "2023-01-17T06:36:32.755601+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/flow"
+            },
+            {
+                "id": 65122,
+                "objectId": 100476,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-17T06:36:42.016945+00:00",
+                "updatedAt": "2023-01-17T06:36:42.016945+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/call-me-maybe/currify"
+            },
+            {
+                "id": 66463,
+                "objectId": 100397,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:42:38.835164+00:00",
+                "updatedAt": "2023-01-19T08:42:38.835164+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/harder-bigger-bolder-stronger"
+            },
+            {
+                "id": 66459,
+                "objectId": 100395,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:40:07.161816+00:00",
+                "updatedAt": "2023-01-19T08:40:07.161816+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/get-them-all"
+            },
+            {
+                "id": 66462,
+                "objectId": 100396,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:41:32.302098+00:00",
+                "updatedAt": "2023-01-19T08:41:32.302098+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/build-brick-and-break"
+            },
+            {
+                "id": 66471,
+                "objectId": 100400,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:46:03.83332+00:00",
+                "updatedAt": "2023-01-19T08:46:03.83332+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/keycodes-symphony"
+            },
+            {
+                "id": 66467,
+                "objectId": 100398,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:44:10.378288+00:00",
+                "updatedAt": "2023-01-19T08:44:10.378288+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/pimp-my-style"
+            },
+            {
+                "id": 66469,
+                "objectId": 100399,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:44:52.644958+00:00",
+                "updatedAt": "2023-01-19T08:44:52.644958+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/fifty-shades-of-cold"
+            },
+            {
+                "id": 66474,
+                "objectId": 100401,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T08:47:49.502284+00:00",
+                "updatedAt": "2023-01-19T08:47:49.502284+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/mouse-trap"
+            },
+            {
+                "id": 66748,
+                "objectId": 100402,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T12:41:16.955381+00:00",
+                "updatedAt": "2023-01-19T12:41:16.955381+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/pick-and-click"
+            },
+            {
+                "id": 66993,
+                "objectId": 100403,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-19T19:05:49.693328+00:00",
+                "updatedAt": "2023-01-19T19:05:49.693328+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/gossip-grid"
+            },
+            {
+                "id": 67217,
+                "objectId": 100404,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-20T12:59:19.490847+00:00",
+                "updatedAt": "2023-01-20T12:59:19.490847+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/dom/where-do-we-go"
+            },
+            {
+                "id": 67878,
+                "objectId": 100479,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T09:46:46.77413+00:00",
+                "updatedAt": "2023-01-23T09:46:46.77413+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/invert"
+            },
+            {
+                "id": 67879,
+                "objectId": 100480,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T09:46:53.599411+00:00",
+                "updatedAt": "2023-01-23T09:46:53.599411+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/pick-omit"
+            },
+            {
+                "id": 67880,
+                "objectId": 100481,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T09:46:59.243618+00:00",
+                "updatedAt": "2023-01-23T09:46:59.243618+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/fusion"
+            },
+            {
+                "id": 67883,
+                "objectId": 100482,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T09:55:07.56547+00:00",
+                "updatedAt": "2023-01-23T09:55:07.56547+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/manipulate-values"
+            },
+            {
+                "id": 67891,
+                "objectId": 100483,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T10:11:29.909678+00:00",
+                "updatedAt": "2023-01-23T10:11:29.909678+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/manipulate-keys"
+            },
+            {
+                "id": 68129,
+                "objectId": 100484,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T15:56:44.377026+00:00",
+                "updatedAt": "2023-01-23T15:56:44.377026+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/manipulate-entries"
+            },
+            {
+                "id": 68131,
+                "objectId": 100484,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T16:01:14.848064+00:00",
+                "updatedAt": "2023-01-23T16:01:14.848064+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/manipulate-entries"
+            },
+            {
+                "id": 68140,
+                "objectId": 100485,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T16:14:18.714425+00:00",
+                "updatedAt": "2023-01-23T16:14:18.714425+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/curry-entries"
+            },
+            {
+                "id": 68167,
+                "objectId": 100486,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T17:51:51.587325+00:00",
+                "updatedAt": "2023-01-23T17:51:51.587325+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/deep-copy"
+            },
+            {
+                "id": 68168,
+                "objectId": 100487,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T17:51:59.476719+00:00",
+                "updatedAt": "2023-01-23T17:51:59.476719+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/replica"
+            },
+            {
+                "id": 68170,
+                "objectId": 100488,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-23T17:52:05.839234+00:00",
+                "updatedAt": "2023-01-23T17:52:05.839234+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/pronoun"
+            },
+            {
+                "id": 68457,
+                "objectId": 100489,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-24T18:17:17.371447+00:00",
+                "updatedAt": "2023-01-24T18:17:17.371447+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/neuron"
+            },
+            {
+                "id": 68458,
+                "objectId": 100490,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-24T18:17:27.839669+00:00",
+                "updatedAt": "2023-01-24T18:17:27.839669+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/object/flagger"
+            },
+            {
+                "id": 69192,
+                "objectId": 100492,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:26:23.606006+00:00",
+                "updatedAt": "2023-01-26T10:26:23.606006+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/debounce"
+            },
+            {
+                "id": 69193,
+                "objectId": 100493,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:27:14.508937+00:00",
+                "updatedAt": "2023-01-26T10:27:14.508937+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/throttle"
+            },
+            {
+                "id": 69195,
+                "objectId": 100494,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:30:21.061879+00:00",
+                "updatedAt": "2023-01-26T10:30:21.061879+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/interpolation"
+            },
+            {
+                "id": 69196,
+                "objectId": 100495,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:30:43.721066+00:00",
+                "updatedAt": "2023-01-26T10:30:43.721066+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/keep-trying-or-giveup"
+            },
+            {
+                "id": 69197,
+                "objectId": 100496,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:31:35.903549+00:00",
+                "updatedAt": "2023-01-26T10:31:35.903549+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/get-json"
+            },
+            {
+                "id": 69198,
+                "objectId": 100497,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:32:20.988746+00:00",
+                "updatedAt": "2023-01-26T10:32:20.988746+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/is-winner"
+            },
+            {
+                "id": 69201,
+                "objectId": 100497,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:35:40.607508+00:00",
+                "updatedAt": "2023-01-26T10:35:40.607508+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/is-winner"
+            },
+            {
+                "id": 69202,
+                "objectId": 100498,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:37:43.667804+00:00",
+                "updatedAt": "2023-01-26T10:37:43.667804+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/gougle-search"
+            },
+            {
+                "id": 69223,
+                "objectId": 100498,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:56:47.624374+00:00",
+                "updatedAt": "2023-01-26T10:56:47.624374+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/gougle-search"
+            },
+            {
+                "id": 69225,
+                "objectId": 100499,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T10:59:38.77066+00:00",
+                "updatedAt": "2023-01-26T10:59:38.77066+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/all"
+            },
+            {
+                "id": 69239,
+                "objectId": 100500,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T11:04:22.217046+00:00",
+                "updatedAt": "2023-01-26T11:04:22.217046+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/series"
+            },
+            {
+                "id": 69294,
+                "objectId": 100501,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-26T13:16:00.681554+00:00",
+                "updatedAt": "2023-01-26T13:16:00.681554+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/async/race"
+            },
+            {
+                "id": 69777,
+                "objectId": 100393,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "admin_selection",
+                "createdAt": "2023-01-29T21:59:01.623643+00:00",
+                "updatedAt": "2023-01-30T08:32:16.737533+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js"
+            },
+            {
+                "id": 69859,
+                "objectId": 100368,
+                "userId": null,
+                "grade": 1.5519999999999998,
+                "type": "user_audit",
+                "createdAt": "2023-02-28T13:22:41.956111+00:00",
+                "updatedAt": "2023-02-28T13:22:41.956111+00:00",
+                "path": "/gritlab/school-curriculum/reverse"
+            },
+            {
+                "id": 69860,
+                "objectId": 100527,
+                "userId": null,
+                "grade": 1.2506666666666666,
+                "type": "user_audit",
+                "createdAt": "2023-02-28T21:22:55.425083+00:00",
+                "updatedAt": "2023-02-28T21:22:55.425083+00:00",
+                "path": "/gritlab/school-curriculum/forum"
+            },
+            {
+                "id": 69896,
+                "objectId": 100517,
+                "userId": null,
+                "grade": 1.4285714285714286,
+                "type": "user_audit",
+                "createdAt": "2023-03-14T09:05:29.640694+00:00",
+                "updatedAt": "2023-03-14T09:05:29.640694+00:00",
+                "path": "/gritlab/school-curriculum/make-your-game"
+            },
+            {
+                "id": 1368,
+                "objectId": 100155,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T12:52:31.079448+00:00",
+                "updatedAt": "2022-04-04T12:52:31.079448+00:00",
+                "path": "/gritlab/piscine-go/quest-01/introduction"
+            },
+            {
+                "id": 842,
+                "objectId": 100005,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "admin_selection",
+                "createdAt": "2022-02-13T14:48:07.575866+00:00",
+                "updatedAt": "2022-02-15T09:17:18.146242+00:00",
+                "path": "/gritlab/onboarding/games"
+            },
+            {
+                "id": 1810,
+                "objectId": 100161,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T07:34:51.303046+00:00",
+                "updatedAt": "2022-04-05T07:34:51.303046+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp4"
+            },
+            {
+                "id": 1616,
+                "objectId": 100154,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T17:23:47.425397+00:00",
+                "updatedAt": "2022-04-04T17:23:47.425397+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp1"
+            },
+            {
+                "id": 1621,
+                "objectId": 100159,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T17:32:30.990046+00:00",
+                "updatedAt": "2022-04-04T17:32:30.990046+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp2"
+            },
+            {
+                "id": 1631,
+                "objectId": 100159,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T17:42:05.254559+00:00",
+                "updatedAt": "2022-04-04T17:42:05.254559+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp2"
+            },
+            {
+                "id": 1634,
+                "objectId": 100159,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T17:45:08.091805+00:00",
+                "updatedAt": "2022-04-04T17:45:08.091805+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp2"
+            },
+            {
+                "id": 835,
+                "objectId": 100005,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "admin_selection",
+                "createdAt": "2022-02-12T21:23:28.233074+00:00",
+                "updatedAt": "2022-02-13T06:51:13.82382+00:00",
+                "path": "/gritlab/onboarding/games"
+            },
+            {
+                "id": 1483,
+                "objectId": 100156,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T15:41:20.086415+00:00",
+                "updatedAt": "2022-04-04T15:41:20.086415+00:00",
+                "path": "/gritlab/piscine-go/quest-01/make-it-better"
+            },
+            {
+                "id": 1726,
+                "objectId": 100160,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T06:45:26.548663+00:00",
+                "updatedAt": "2022-04-05T06:45:26.548663+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp3"
+            },
+            {
+                "id": 895,
+                "objectId": 100006,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "admin_selection",
+                "createdAt": "2022-02-15T14:21:45.835565+00:00",
+                "updatedAt": "2022-02-28T09:23:46.085455+00:00",
+                "path": "/gritlab/onboarding/administration"
+            },
+            {
+                "id": 1534,
+                "objectId": 100158,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-04T16:13:51.220703+00:00",
+                "updatedAt": "2022-04-04T16:13:51.220703+00:00",
+                "path": "/gritlab/piscine-go/quest-01/who-are-you"
+            },
+            {
+                "id": 1819,
+                "objectId": 100161,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T07:39:39.928338+00:00",
+                "updatedAt": "2022-04-05T07:39:39.928338+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp4"
+            },
+            {
+                "id": 2097,
+                "objectId": 100161,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T09:57:12.20838+00:00",
+                "updatedAt": "2022-04-05T09:57:12.20838+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp4"
+            },
+            {
+                "id": 2428,
+                "objectId": 100162,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T12:57:56.800411+00:00",
+                "updatedAt": "2022-04-05T12:57:56.800411+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp5"
+            },
+            {
+                "id": 2477,
+                "objectId": 100168,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T13:11:55.668154+00:00",
+                "updatedAt": "2022-04-05T13:11:55.668154+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp6"
+            },
+            {
+                "id": 2511,
+                "objectId": 100168,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T13:34:34.916849+00:00",
+                "updatedAt": "2022-04-05T13:34:34.916849+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp6"
+            },
+            {
+                "id": 2557,
+                "objectId": 100163,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T14:00:38.430776+00:00",
+                "updatedAt": "2022-04-05T14:00:38.430776+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp7"
+            },
+            {
+                "id": 2623,
+                "objectId": 100167,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-05T14:36:58.612633+00:00",
+                "updatedAt": "2022-04-05T14:36:58.612633+00:00",
+                "path": "/gritlab/piscine-go/quest-01/cl-camp8"
+            },
+            {
+                "id": 3022,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T07:16:21.708916+00:00",
+                "updatedAt": "2022-04-06T07:16:21.708916+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printalphabet"
+            },
+            {
+                "id": 3034,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T07:20:33.923273+00:00",
+                "updatedAt": "2022-04-06T07:20:33.923273+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printalphabet"
+            },
+            {
+                "id": 3039,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T07:23:37.272536+00:00",
+                "updatedAt": "2022-04-06T07:23:37.272536+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printalphabet"
+            },
+            {
+                "id": 3043,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T07:26:48.378004+00:00",
+                "updatedAt": "2022-04-06T07:26:48.378004+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printalphabet"
+            },
+            {
+                "id": 3081,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T07:46:33.593061+00:00",
+                "updatedAt": "2022-04-06T07:46:33.593061+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printalphabet"
+            },
+            {
+                "id": 3180,
+                "objectId": 100176,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T08:29:12.538197+00:00",
+                "updatedAt": "2022-04-06T08:29:12.538197+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printreversealphabet"
+            },
+            {
+                "id": 3197,
+                "objectId": 100175,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T08:35:06.975579+00:00",
+                "updatedAt": "2022-04-06T08:35:06.975579+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printdigits"
+            },
+            {
+                "id": 3209,
+                "objectId": 100175,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T08:40:09.361283+00:00",
+                "updatedAt": "2022-04-06T08:40:09.361283+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printdigits"
+            },
+            {
+                "id": 3300,
+                "objectId": 100175,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T09:20:48.350455+00:00",
+                "updatedAt": "2022-04-06T09:20:48.350455+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printdigits"
+            },
+            {
+                "id": 3305,
+                "objectId": 100171,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T09:22:22.055544+00:00",
+                "updatedAt": "2022-04-06T09:22:22.055544+00:00",
+                "path": "/gritlab/piscine-go/quest-02/isnegative"
+            },
+            {
+                "id": 3329,
+                "objectId": 100171,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T09:35:10.050138+00:00",
+                "updatedAt": "2022-04-06T09:35:10.050138+00:00",
+                "path": "/gritlab/piscine-go/quest-02/isnegative"
+            },
+            {
+                "id": 3343,
+                "objectId": 100171,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T09:41:42.266733+00:00",
+                "updatedAt": "2022-04-06T09:41:42.266733+00:00",
+                "path": "/gritlab/piscine-go/quest-02/isnegative"
+            },
+            {
+                "id": 3352,
+                "objectId": 100171,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T09:46:11.002317+00:00",
+                "updatedAt": "2022-04-06T09:46:11.002317+00:00",
+                "path": "/gritlab/piscine-go/quest-02/isnegative"
+            },
+            {
+                "id": 3359,
+                "objectId": 100171,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T09:49:23.958031+00:00",
+                "updatedAt": "2022-04-06T09:49:23.958031+00:00",
+                "path": "/gritlab/piscine-go/quest-02/isnegative"
+            },
+            {
+                "id": 3438,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T10:26:48.051942+00:00",
+                "updatedAt": "2022-04-06T10:26:48.051942+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printcomb"
+            },
+            {
+                "id": 3807,
+                "objectId": 100173,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T14:36:42.727642+00:00",
+                "updatedAt": "2022-04-06T14:36:42.727642+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printcomb2"
+            },
+            {
+                "id": 3817,
+                "objectId": 100173,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T14:44:56.584609+00:00",
+                "updatedAt": "2022-04-06T14:44:56.584609+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printcomb2"
+            },
+            {
+                "id": 3869,
+                "objectId": 100173,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-06T15:35:14.380674+00:00",
+                "updatedAt": "2022-04-06T15:35:14.380674+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printcomb2"
+            },
+            {
+                "id": 4153,
+                "objectId": 100179,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T06:38:05.994218+00:00",
+                "updatedAt": "2022-04-07T06:38:05.994218+00:00",
+                "path": "/gritlab/piscine-go/quest-03/pointone"
+            },
+            {
+                "id": 4165,
+                "objectId": 100180,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T06:42:01.215956+00:00",
+                "updatedAt": "2022-04-07T06:42:01.215956+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatepointone"
+            },
+            {
+                "id": 4173,
+                "objectId": 100181,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T06:46:27.577816+00:00",
+                "updatedAt": "2022-04-07T06:46:27.577816+00:00",
+                "path": "/gritlab/piscine-go/quest-03/divmod"
+            },
+            {
+                "id": 4493,
+                "objectId": 100173,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T09:14:20.446453+00:00",
+                "updatedAt": "2022-04-07T09:14:20.446453+00:00",
+                "path": "/gritlab/piscine-go/quest-02/printcomb2"
+            },
+            {
+                "id": 4519,
+                "objectId": 100182,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T09:23:00.112655+00:00",
+                "updatedAt": "2022-04-07T09:23:00.112655+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatedivmod"
+            },
+            {
+                "id": 4537,
+                "objectId": 100182,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T09:34:36.17495+00:00",
+                "updatedAt": "2022-04-07T09:34:36.17495+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatedivmod"
+            },
+            {
+                "id": 4547,
+                "objectId": 100182,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T09:37:39.830372+00:00",
+                "updatedAt": "2022-04-07T09:37:39.830372+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatedivmod"
+            },
+            {
+                "id": 4630,
+                "objectId": 100182,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T10:13:31.710837+00:00",
+                "updatedAt": "2022-04-07T10:13:31.710837+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatedivmod"
+            },
+            {
+                "id": 4639,
+                "objectId": 100182,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T10:17:37.71098+00:00",
+                "updatedAt": "2022-04-07T10:17:37.71098+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatedivmod"
+            },
+            {
+                "id": 4651,
+                "objectId": 100182,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T10:21:59.102125+00:00",
+                "updatedAt": "2022-04-07T10:21:59.102125+00:00",
+                "path": "/gritlab/piscine-go/quest-03/ultimatedivmod"
+            },
+            {
+                "id": 4657,
+                "objectId": 100186,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T10:25:55.655898+00:00",
+                "updatedAt": "2022-04-07T10:25:55.655898+00:00",
+                "path": "/gritlab/piscine-go/quest-03/printstr"
+            },
+            {
+                "id": 4663,
+                "objectId": 100186,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T10:29:17.085025+00:00",
+                "updatedAt": "2022-04-07T10:29:17.085025+00:00",
+                "path": "/gritlab/piscine-go/quest-03/printstr"
+            },
+            {
+                "id": 4773,
+                "objectId": 100186,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T11:13:15.283531+00:00",
+                "updatedAt": "2022-04-07T11:13:15.283531+00:00",
+                "path": "/gritlab/piscine-go/quest-03/printstr"
+            },
+            {
+                "id": 4792,
+                "objectId": 100186,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T11:20:00.419478+00:00",
+                "updatedAt": "2022-04-07T11:20:00.419478+00:00",
+                "path": "/gritlab/piscine-go/quest-03/printstr"
+            },
+            {
+                "id": 4847,
+                "objectId": 100049,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T11:48:48.605015+00:00",
+                "updatedAt": "2022-04-07T11:48:48.605015+00:00",
+                "path": "/gritlab/piscine-go/quest-03/strlen"
+            },
+            {
+                "id": 4891,
+                "objectId": 100187,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T12:04:43.718566+00:00",
+                "updatedAt": "2022-04-07T12:04:43.718566+00:00",
+                "path": "/gritlab/piscine-go/quest-03/swap"
+            },
+            {
+                "id": 5044,
+                "objectId": 100188,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-07T13:20:32.00027+00:00",
+                "updatedAt": "2022-04-07T13:20:32.00027+00:00",
+                "path": "/gritlab/piscine-go/quest-03/strrev"
+            },
+            {
+                "id": 5734,
+                "objectId": 100192,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T10:47:22.771383+00:00",
+                "updatedAt": "2022-04-08T10:47:22.771383+00:00",
+                "path": "/gritlab/piscine-go/exam-01/displaya"
+            },
+            {
+                "id": 5714,
+                "objectId": 100192,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T10:43:48.096542+00:00",
+                "updatedAt": "2022-04-08T10:43:48.096542+00:00",
+                "path": "/gritlab/piscine-go/exam-01/displaya"
+            },
+            {
+                "id": 5802,
+                "objectId": 100192,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:00:17.624755+00:00",
+                "updatedAt": "2022-04-08T11:00:17.624755+00:00",
+                "path": "/gritlab/piscine-go/exam-01/displaya"
+            },
+            {
+                "id": 5816,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:03:27.78998+00:00",
+                "updatedAt": "2022-04-08T11:03:27.78998+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printalphabet"
+            },
+            {
+                "id": 5811,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:02:48.157919+00:00",
+                "updatedAt": "2022-04-08T11:02:48.157919+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printalphabet"
+            },
+            {
+                "id": 5827,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:04:31.450152+00:00",
+                "updatedAt": "2022-04-08T11:04:31.450152+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printalphabet"
+            },
+            {
+                "id": 5831,
+                "objectId": 100177,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:05:10.19708+00:00",
+                "updatedAt": "2022-04-08T11:05:10.19708+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printalphabet"
+            },
+            {
+                "id": 5848,
+                "objectId": 100193,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:08:31.593116+00:00",
+                "updatedAt": "2022-04-08T11:08:31.593116+00:00",
+                "path": "/gritlab/piscine-go/exam-01/hello"
+            },
+            {
+                "id": 5966,
+                "objectId": 100196,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:42:51.205912+00:00",
+                "updatedAt": "2022-04-08T11:42:51.205912+00:00",
+                "path": "/gritlab/piscine-go/exam-01/displayalpham"
+            },
+            {
+                "id": 5973,
+                "objectId": 100196,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:43:42.194912+00:00",
+                "updatedAt": "2022-04-08T11:43:42.194912+00:00",
+                "path": "/gritlab/piscine-go/exam-01/displayalpham"
+            },
+            {
+                "id": 5998,
+                "objectId": 100197,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T11:49:46.344407+00:00",
+                "updatedAt": "2022-04-08T11:49:46.344407+00:00",
+                "path": "/gritlab/piscine-go/exam-01/displayalrevm"
+            },
+            {
+                "id": 6109,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:16:48.123408+00:00",
+                "updatedAt": "2022-04-08T12:16:48.123408+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6105,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:15:45.773705+00:00",
+                "updatedAt": "2022-04-08T12:15:45.773705+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6118,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:18:22.599231+00:00",
+                "updatedAt": "2022-04-08T12:18:22.599231+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6122,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:19:09.595721+00:00",
+                "updatedAt": "2022-04-08T12:19:09.595721+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6126,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:20:09.136163+00:00",
+                "updatedAt": "2022-04-08T12:20:09.136163+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6133,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:21:23.788335+00:00",
+                "updatedAt": "2022-04-08T12:21:23.788335+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6138,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:22:21.843551+00:00",
+                "updatedAt": "2022-04-08T12:22:21.843551+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6142,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:22:36.122192+00:00",
+                "updatedAt": "2022-04-08T12:22:36.122192+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6145,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:22:54.366985+00:00",
+                "updatedAt": "2022-04-08T12:22:54.366985+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6152,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:23:31.154417+00:00",
+                "updatedAt": "2022-04-08T12:23:31.154417+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6154,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:23:43.954926+00:00",
+                "updatedAt": "2022-04-08T12:23:43.954926+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6156,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:24:28.461788+00:00",
+                "updatedAt": "2022-04-08T12:24:28.461788+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6158,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:25:19.46267+00:00",
+                "updatedAt": "2022-04-08T12:25:19.46267+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6160,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:25:53.543508+00:00",
+                "updatedAt": "2022-04-08T12:25:53.543508+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6165,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:26:13.924979+00:00",
+                "updatedAt": "2022-04-08T12:26:13.924979+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6167,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:26:27.010586+00:00",
+                "updatedAt": "2022-04-08T12:26:27.010586+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6169,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:26:38.896463+00:00",
+                "updatedAt": "2022-04-08T12:26:38.896463+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6172,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:27:14.873367+00:00",
+                "updatedAt": "2022-04-08T12:27:14.873367+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6175,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:27:32.310114+00:00",
+                "updatedAt": "2022-04-08T12:27:32.310114+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6177,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:27:45.742262+00:00",
+                "updatedAt": "2022-04-08T12:27:45.742262+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6179,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:28:18.703992+00:00",
+                "updatedAt": "2022-04-08T12:28:18.703992+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6181,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:28:33.298199+00:00",
+                "updatedAt": "2022-04-08T12:28:33.298199+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6182,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:28:45.48251+00:00",
+                "updatedAt": "2022-04-08T12:28:45.48251+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6188,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:29:09.198102+00:00",
+                "updatedAt": "2022-04-08T12:29:09.198102+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6192,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:29:49.86332+00:00",
+                "updatedAt": "2022-04-08T12:29:49.86332+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6194,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:30:09.099599+00:00",
+                "updatedAt": "2022-04-08T12:30:09.099599+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6200,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:30:42.870828+00:00",
+                "updatedAt": "2022-04-08T12:30:42.870828+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6203,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:31:29.540267+00:00",
+                "updatedAt": "2022-04-08T12:31:29.540267+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6207,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:31:55.718648+00:00",
+                "updatedAt": "2022-04-08T12:31:55.718648+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6190,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:29:21.267476+00:00",
+                "updatedAt": "2022-04-08T12:29:21.267476+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6197,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:30:25.591913+00:00",
+                "updatedAt": "2022-04-08T12:30:25.591913+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6217,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T12:33:25.20108+00:00",
+                "updatedAt": "2022-04-08T12:33:25.20108+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6388,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T13:09:31.696328+00:00",
+                "updatedAt": "2022-04-08T13:09:31.696328+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6390,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T13:09:43.962447+00:00",
+                "updatedAt": "2022-04-08T13:09:43.962447+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6479,
+                "objectId": 100172,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T13:28:35.485098+00:00",
+                "updatedAt": "2022-04-08T13:28:35.485098+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printcomb"
+            },
+            {
+                "id": 6504,
+                "objectId": 100198,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T13:35:02.666868+00:00",
+                "updatedAt": "2022-04-08T13:35:02.666868+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printrevcomb"
+            },
+            {
+                "id": 6506,
+                "objectId": 100198,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-08T13:35:16.352369+00:00",
+                "updatedAt": "2022-04-08T13:35:16.352369+00:00",
+                "path": "/gritlab/piscine-go/exam-01/printrevcomb"
+            },
+            {
+                "id": 6611,
+                "objectId": 100190,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "admin_selection",
+                "createdAt": "2022-04-08T14:00:01.543871+00:00",
+                "updatedAt": "2022-04-08T14:00:01.543871+00:00",
+                "path": "/gritlab/piscine-go/exam-01"
+            },
+            {
+                "id": 6701,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T05:54:44.92449+00:00",
+                "updatedAt": "2022-04-11T05:54:44.92449+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6716,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T06:06:32.894255+00:00",
+                "updatedAt": "2022-04-11T06:06:32.894255+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6722,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T06:09:43.138801+00:00",
+                "updatedAt": "2022-04-11T06:09:43.138801+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6763,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T06:38:50.108186+00:00",
+                "updatedAt": "2022-04-11T06:38:50.108186+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6771,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T06:42:53.181522+00:00",
+                "updatedAt": "2022-04-11T06:42:53.181522+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6801,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T06:57:25.190794+00:00",
+                "updatedAt": "2022-04-11T06:57:25.190794+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6822,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T07:06:07.061601+00:00",
+                "updatedAt": "2022-04-11T07:06:07.061601+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 6866,
+                "objectId": 100144,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T07:22:27.578882+00:00",
+                "updatedAt": "2022-04-11T07:22:27.578882+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativefactorial"
+            },
+            {
+                "id": 7024,
+                "objectId": 100146,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T08:19:29.526139+00:00",
+                "updatedAt": "2022-04-11T08:19:29.526139+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativepower"
+            },
+            {
+                "id": 6972,
+                "objectId": 100145,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T07:57:31.733059+00:00",
+                "updatedAt": "2022-04-11T07:57:31.733059+00:00",
+                "path": "/gritlab/piscine-go/quest-04/recursivefactorial"
+            },
+            {
+                "id": 6998,
+                "objectId": 100146,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T08:07:51.856874+00:00",
+                "updatedAt": "2022-04-11T08:07:51.856874+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativepower"
+            },
+            {
+                "id": 7004,
+                "objectId": 100146,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T08:11:00.502562+00:00",
+                "updatedAt": "2022-04-11T08:11:00.502562+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativepower"
+            },
+            {
+                "id": 7013,
+                "objectId": 100146,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T08:15:50.025897+00:00",
+                "updatedAt": "2022-04-11T08:15:50.025897+00:00",
+                "path": "/gritlab/piscine-go/quest-04/iterativepower"
+            },
+            {
+                "id": 7075,
+                "objectId": 100147,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T08:40:24.358619+00:00",
+                "updatedAt": "2022-04-11T08:40:24.358619+00:00",
+                "path": "/gritlab/piscine-go/quest-04/recursivepower"
+            },
+            {
+                "id": 7352,
+                "objectId": 100148,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T10:56:36.223557+00:00",
+                "updatedAt": "2022-04-11T10:56:36.223557+00:00",
+                "path": "/gritlab/piscine-go/quest-04/fibonacci"
+            },
+            {
+                "id": 7563,
+                "objectId": 100149,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T13:52:51.981426+00:00",
+                "updatedAt": "2022-04-11T13:52:51.981426+00:00",
+                "path": "/gritlab/piscine-go/quest-04/sqrt"
+            },
+            {
+                "id": 7552,
+                "objectId": 100149,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T13:40:41.250846+00:00",
+                "updatedAt": "2022-04-11T13:40:41.250846+00:00",
+                "path": "/gritlab/piscine-go/quest-04/sqrt"
+            },
+            {
+                "id": 7560,
+                "objectId": 100149,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T13:49:25.514743+00:00",
+                "updatedAt": "2022-04-11T13:49:25.514743+00:00",
+                "path": "/gritlab/piscine-go/quest-04/sqrt"
+            },
+            {
+                "id": 7607,
+                "objectId": 100150,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T14:42:46.691574+00:00",
+                "updatedAt": "2022-04-11T14:42:46.691574+00:00",
+                "path": "/gritlab/piscine-go/quest-04/isprime"
+            },
+            {
+                "id": 7610,
+                "objectId": 100150,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T14:50:22.311779+00:00",
+                "updatedAt": "2022-04-11T14:50:22.311779+00:00",
+                "path": "/gritlab/piscine-go/quest-04/isprime"
+            },
+            {
+                "id": 7613,
+                "objectId": 100150,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T14:53:26.524806+00:00",
+                "updatedAt": "2022-04-11T14:53:26.524806+00:00",
+                "path": "/gritlab/piscine-go/quest-04/isprime"
+            },
+            {
+                "id": 7639,
+                "objectId": 100150,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-11T15:29:51.055104+00:00",
+                "updatedAt": "2022-04-11T15:29:51.055104+00:00",
+                "path": "/gritlab/piscine-go/quest-04/isprime"
+            },
+            {
+                "id": 7870,
+                "objectId": 100048,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T06:23:29.991214+00:00",
+                "updatedAt": "2022-04-12T06:23:29.991214+00:00",
+                "path": "/gritlab/piscine-go/quest-05/firstrune"
+            },
+            {
+                "id": 7890,
+                "objectId": 100048,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T06:37:11.755414+00:00",
+                "updatedAt": "2022-04-12T06:37:11.755414+00:00",
+                "path": "/gritlab/piscine-go/quest-05/firstrune"
+            },
+            {
+                "id": 7926,
+                "objectId": 100056,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T06:54:02.421199+00:00",
+                "updatedAt": "2022-04-12T06:54:02.421199+00:00",
+                "path": "/gritlab/piscine-go/quest-05/lastrune"
+            },
+            {
+                "id": 8094,
+                "objectId": 100059,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T08:15:09.389959+00:00",
+                "updatedAt": "2022-04-12T08:15:09.389959+00:00",
+                "path": "/gritlab/piscine-go/quest-05/nrune"
+            },
+            {
+                "id": 8101,
+                "objectId": 100059,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T08:18:40.004803+00:00",
+                "updatedAt": "2022-04-12T08:18:40.004803+00:00",
+                "path": "/gritlab/piscine-go/quest-05/nrune"
+            },
+            {
+                "id": 8129,
+                "objectId": 100059,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T08:30:04.453483+00:00",
+                "updatedAt": "2022-04-12T08:30:04.453483+00:00",
+                "path": "/gritlab/piscine-go/quest-05/nrune"
+            },
+            {
+                "id": 8141,
+                "objectId": 100059,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T08:35:27.382582+00:00",
+                "updatedAt": "2022-04-12T08:35:27.382582+00:00",
+                "path": "/gritlab/piscine-go/quest-05/nrune"
+            },
+            {
+                "id": 8148,
+                "objectId": 100059,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T08:38:49.363859+00:00",
+                "updatedAt": "2022-04-12T08:38:49.363859+00:00",
+                "path": "/gritlab/piscine-go/quest-05/nrune"
+            },
+            {
+                "id": 8331,
+                "objectId": 100047,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T10:33:53.856607+00:00",
+                "updatedAt": "2022-04-12T10:33:53.856607+00:00",
+                "path": "/gritlab/piscine-go/quest-05/compare"
+            },
+            {
+                "id": 8320,
+                "objectId": 100047,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T10:30:21.423565+00:00",
+                "updatedAt": "2022-04-12T10:30:21.423565+00:00",
+                "path": "/gritlab/piscine-go/quest-05/compare"
+            },
+            {
+                "id": 8395,
+                "objectId": 100072,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T11:20:00.17726+00:00",
+                "updatedAt": "2022-04-12T11:20:00.17726+00:00",
+                "path": "/gritlab/piscine-go/quest-05/alphacount"
+            },
+            {
+                "id": 8463,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T11:56:55.210191+00:00",
+                "updatedAt": "2022-04-12T11:56:55.210191+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8490,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T12:17:55.711667+00:00",
+                "updatedAt": "2022-04-12T12:17:55.711667+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8500,
+                "objectId": 100216,
+                "userId": null,
+                "grade": 0.1111111111111111,
+                "type": "admin_audit",
+                "createdAt": "2022-04-12T12:25:23.059666+00:00",
+                "updatedAt": "2022-04-12T12:25:23.059666+00:00",
+                "path": "/gritlab/piscine-go/quad"
+            },
+            {
+                "id": 8513,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T12:37:38.335228+00:00",
+                "updatedAt": "2022-04-12T12:37:38.335228+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8528,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T12:46:59.588839+00:00",
+                "updatedAt": "2022-04-12T12:46:59.588839+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8535,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T12:50:05.686858+00:00",
+                "updatedAt": "2022-04-12T12:50:05.686858+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8540,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T12:53:10.135073+00:00",
+                "updatedAt": "2022-04-12T12:53:10.135073+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8562,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T13:06:34.018795+00:00",
+                "updatedAt": "2022-04-12T13:06:34.018795+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8572,
+                "objectId": 100060,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T13:11:36.742942+00:00",
+                "updatedAt": "2022-04-12T13:11:36.742942+00:00",
+                "path": "/gritlab/piscine-go/quest-05/index"
+            },
+            {
+                "id": 8682,
+                "objectId": 100069,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T14:23:26.247852+00:00",
+                "updatedAt": "2022-04-12T14:23:26.247852+00:00",
+                "path": "/gritlab/piscine-go/quest-05/concat"
+            },
+            {
+                "id": 8880,
+                "objectId": 100067,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T16:23:28.833968+00:00",
+                "updatedAt": "2022-04-12T16:23:28.833968+00:00",
+                "path": "/gritlab/piscine-go/quest-05/isupper"
+            },
+            {
+                "id": 8884,
+                "objectId": 100066,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T16:24:44.160776+00:00",
+                "updatedAt": "2022-04-12T16:24:44.160776+00:00",
+                "path": "/gritlab/piscine-go/quest-05/islower"
+            },
+            {
+                "id": 8893,
+                "objectId": 100064,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T16:29:52.995837+00:00",
+                "updatedAt": "2022-04-12T16:29:52.995837+00:00",
+                "path": "/gritlab/piscine-go/quest-05/isalpha"
+            },
+            {
+                "id": 8895,
+                "objectId": 100065,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T16:31:04.358262+00:00",
+                "updatedAt": "2022-04-12T16:31:04.358262+00:00",
+                "path": "/gritlab/piscine-go/quest-05/isnumeric"
+            },
+            {
+                "id": 8902,
+                "objectId": 100065,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T16:34:23.724822+00:00",
+                "updatedAt": "2022-04-12T16:34:23.724822+00:00",
+                "path": "/gritlab/piscine-go/quest-05/isnumeric"
+            },
+            {
+                "id": 8929,
+                "objectId": 100068,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T16:53:48.133103+00:00",
+                "updatedAt": "2022-04-12T16:53:48.133103+00:00",
+                "path": "/gritlab/piscine-go/quest-05/isprintable"
+            },
+            {
+                "id": 8998,
+                "objectId": 100061,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T17:39:22.320647+00:00",
+                "updatedAt": "2022-04-12T17:39:22.320647+00:00",
+                "path": "/gritlab/piscine-go/quest-05/toupper"
+            },
+            {
+                "id": 8999,
+                "objectId": 100062,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T17:41:59.937341+00:00",
+                "updatedAt": "2022-04-12T17:41:59.937341+00:00",
+                "path": "/gritlab/piscine-go/quest-05/tolower"
+            },
+            {
+                "id": 9006,
+                "objectId": 100062,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T17:45:26.392723+00:00",
+                "updatedAt": "2022-04-12T17:45:26.392723+00:00",
+                "path": "/gritlab/piscine-go/quest-05/tolower"
+            },
+            {
+                "id": 9042,
+                "objectId": 100074,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-12T18:22:45.276085+00:00",
+                "updatedAt": "2022-04-12T18:22:45.276085+00:00",
+                "path": "/gritlab/piscine-go/quest-05/printnbrinorder"
+            },
+            {
+                "id": 9394,
+                "objectId": 100183,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T08:14:13.958633+00:00",
+                "updatedAt": "2022-04-13T08:14:13.958633+00:00",
+                "path": "/gritlab/piscine-go/quest-03/basicatoi"
+            },
+            {
+                "id": 9563,
+                "objectId": 100073,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T10:45:02.325223+00:00",
+                "updatedAt": "2022-04-13T10:45:02.325223+00:00",
+                "path": "/gritlab/piscine-go/quest-05/trimatoi"
+            },
+            {
+                "id": 9617,
+                "objectId": 100063,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T11:15:33.924232+00:00",
+                "updatedAt": "2022-04-13T11:15:33.924232+00:00",
+                "path": "/gritlab/piscine-go/quest-05/capitalize"
+            },
+            {
+                "id": 9627,
+                "objectId": 100063,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T11:20:08.373392+00:00",
+                "updatedAt": "2022-04-13T11:20:08.373392+00:00",
+                "path": "/gritlab/piscine-go/quest-05/capitalize"
+            },
+            {
+                "id": 9672,
+                "objectId": 100063,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T12:01:44.839885+00:00",
+                "updatedAt": "2022-04-13T12:01:44.839885+00:00",
+                "path": "/gritlab/piscine-go/quest-05/capitalize"
+            },
+            {
+                "id": 9677,
+                "objectId": 100063,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T12:05:24.228915+00:00",
+                "updatedAt": "2022-04-13T12:05:24.228915+00:00",
+                "path": "/gritlab/piscine-go/quest-05/capitalize"
+            },
+            {
+                "id": 9715,
+                "objectId": 100077,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T12:31:14.154177+00:00",
+                "updatedAt": "2022-04-13T12:31:14.154177+00:00",
+                "path": "/gritlab/piscine-go/quest-06/printprogramname"
+            },
+            {
+                "id": 9769,
+                "objectId": 100077,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T12:56:10.338966+00:00",
+                "updatedAt": "2022-04-13T12:56:10.338966+00:00",
+                "path": "/gritlab/piscine-go/quest-06/printprogramname"
+            },
+            {
+                "id": 9783,
+                "objectId": 100070,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T14:36:02.990268+00:00",
+                "updatedAt": "2022-04-13T14:36:02.990268+00:00",
+                "path": "/gritlab/piscine-go/quest-05/basicjoin"
+            },
+            {
+                "id": 9784,
+                "objectId": 100071,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T14:43:14.10413+00:00",
+                "updatedAt": "2022-04-13T14:43:14.10413+00:00",
+                "path": "/gritlab/piscine-go/quest-05/join"
+            },
+            {
+                "id": 9787,
+                "objectId": 100071,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T14:46:20.485992+00:00",
+                "updatedAt": "2022-04-13T14:46:20.485992+00:00",
+                "path": "/gritlab/piscine-go/quest-05/join"
+            },
+            {
+                "id": 9831,
+                "objectId": 100078,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T15:40:45.783933+00:00",
+                "updatedAt": "2022-04-13T15:40:45.783933+00:00",
+                "path": "/gritlab/piscine-go/quest-06/printparams"
+            },
+            {
+                "id": 9860,
+                "objectId": 100079,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-13T16:12:18.480281+00:00",
+                "updatedAt": "2022-04-13T16:12:18.480281+00:00",
+                "path": "/gritlab/piscine-go/quest-06/revparams"
+            },
+            {
+                "id": 10179,
+                "objectId": 100085,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T07:00:47.749769+00:00",
+                "updatedAt": "2022-04-14T07:00:47.749769+00:00",
+                "path": "/gritlab/piscine-go/quest-07/appendrange"
+            },
+            {
+                "id": 10235,
+                "objectId": 100086,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T07:28:26.176496+00:00",
+                "updatedAt": "2022-04-14T07:28:26.176496+00:00",
+                "path": "/gritlab/piscine-go/quest-07/makerange"
+            },
+            {
+                "id": 10239,
+                "objectId": 100086,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T07:31:55.238753+00:00",
+                "updatedAt": "2022-04-14T07:31:55.238753+00:00",
+                "path": "/gritlab/piscine-go/quest-07/makerange"
+            },
+            {
+                "id": 10299,
+                "objectId": 100086,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T08:20:31.045937+00:00",
+                "updatedAt": "2022-04-14T08:20:31.045937+00:00",
+                "path": "/gritlab/piscine-go/quest-07/makerange"
+            },
+            {
+                "id": 10357,
+                "objectId": 100087,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T08:58:15.543794+00:00",
+                "updatedAt": "2022-04-14T08:58:15.543794+00:00",
+                "path": "/gritlab/piscine-go/quest-07/concatparams"
+            },
+            {
+                "id": 10378,
+                "objectId": 100087,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T09:12:14.845852+00:00",
+                "updatedAt": "2022-04-14T09:12:14.845852+00:00",
+                "path": "/gritlab/piscine-go/quest-07/concatparams"
+            },
+            {
+                "id": 10381,
+                "objectId": 100071,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T09:15:46.987498+00:00",
+                "updatedAt": "2022-04-14T09:15:46.987498+00:00",
+                "path": "/gritlab/piscine-go/quest-05/join"
+            },
+            {
+                "id": 10383,
+                "objectId": 100071,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T09:18:49.680931+00:00",
+                "updatedAt": "2022-04-14T09:18:49.680931+00:00",
+                "path": "/gritlab/piscine-go/quest-05/join"
+            },
+            {
+                "id": 10588,
+                "objectId": 100088,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T12:33:34.841183+00:00",
+                "updatedAt": "2022-04-14T12:33:34.841183+00:00",
+                "path": "/gritlab/piscine-go/quest-07/splitwhitespaces"
+            },
+            {
+                "id": 10593,
+                "objectId": 100088,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T12:36:45.191396+00:00",
+                "updatedAt": "2022-04-14T12:36:45.191396+00:00",
+                "path": "/gritlab/piscine-go/quest-07/splitwhitespaces"
+            },
+            {
+                "id": 10684,
+                "objectId": 100088,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-14T14:10:09.152275+00:00",
+                "updatedAt": "2022-04-14T14:10:09.152275+00:00",
+                "path": "/gritlab/piscine-go/quest-07/splitwhitespaces"
+            },
+            {
+                "id": 11001,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:05:04.405961+00:00",
+                "updatedAt": "2022-04-15T10:05:04.405961+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11010,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:05:40.543826+00:00",
+                "updatedAt": "2022-04-15T10:05:40.543826+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11028,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:07:00.098574+00:00",
+                "updatedAt": "2022-04-15T10:07:00.098574+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11038,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:07:28.630533+00:00",
+                "updatedAt": "2022-04-15T10:07:28.630533+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11043,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:08:15.870251+00:00",
+                "updatedAt": "2022-04-15T10:08:15.870251+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11047,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:08:27.558413+00:00",
+                "updatedAt": "2022-04-15T10:08:27.558413+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11052,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:08:40.605068+00:00",
+                "updatedAt": "2022-04-15T10:08:40.605068+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11054,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:08:55.994799+00:00",
+                "updatedAt": "2022-04-15T10:08:55.994799+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11117,
+                "objectId": 100191,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:13:08.427901+00:00",
+                "updatedAt": "2022-04-15T10:13:08.427901+00:00",
+                "path": "/gritlab/piscine-go/exam-02/displayz"
+            },
+            {
+                "id": 11152,
+                "objectId": 100186,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:14:59.083816+00:00",
+                "updatedAt": "2022-04-15T10:14:59.083816+00:00",
+                "path": "/gritlab/piscine-go/exam-02/printstr"
+            },
+            {
+                "id": 11171,
+                "objectId": 100049,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:16:34.420527+00:00",
+                "updatedAt": "2022-04-15T10:16:34.420527+00:00",
+                "path": "/gritlab/piscine-go/exam-02/strlen"
+            },
+            {
+                "id": 11614,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:46:49.274489+00:00",
+                "updatedAt": "2022-04-15T10:46:49.274489+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 11661,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:52:41.971401+00:00",
+                "updatedAt": "2022-04-15T10:52:41.971401+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 11696,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:57:53.692117+00:00",
+                "updatedAt": "2022-04-15T10:57:53.692117+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 11707,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T10:58:53.68586+00:00",
+                "updatedAt": "2022-04-15T10:58:53.68586+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 11734,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T11:01:10.82795+00:00",
+                "updatedAt": "2022-04-15T11:01:10.82795+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 11865,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T11:13:55.528998+00:00",
+                "updatedAt": "2022-04-15T11:13:55.528998+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 12079,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T11:33:16.147615+00:00",
+                "updatedAt": "2022-04-15T11:33:16.147615+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 12951,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T13:23:14.832572+00:00",
+                "updatedAt": "2022-04-15T13:23:14.832572+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 12962,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T13:24:15.234168+00:00",
+                "updatedAt": "2022-04-15T13:24:15.234168+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 12970,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T13:25:36.81094+00:00",
+                "updatedAt": "2022-04-15T13:25:36.81094+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 13057,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T13:40:32.313494+00:00",
+                "updatedAt": "2022-04-15T13:40:32.313494+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 13157,
+                "objectId": 100204,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-15T13:58:12.497454+00:00",
+                "updatedAt": "2022-04-15T13:58:12.497454+00:00",
+                "path": "/gritlab/piscine-go/exam-02/searchreplace"
+            },
+            {
+                "id": 13207,
+                "objectId": 100199,
+                "userId": 1137,
+                "grade": 0.21428571428571427,
+                "type": "admin_selection",
+                "createdAt": "2022-04-15T14:00:01.916044+00:00",
+                "updatedAt": "2022-04-15T14:00:01.916044+00:00",
+                "path": "/gritlab/piscine-go/exam-02"
+            },
+            {
+                "id": 13597,
+                "objectId": 100094,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T07:28:53.406867+00:00",
+                "updatedAt": "2022-04-18T07:28:53.406867+00:00",
+                "path": "/gritlab/piscine-go/quest-08/boolean"
+            },
+            {
+                "id": 13602,
+                "objectId": 100094,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T07:32:04.509022+00:00",
+                "updatedAt": "2022-04-18T07:32:04.509022+00:00",
+                "path": "/gritlab/piscine-go/quest-08/boolean"
+            },
+            {
+                "id": 13607,
+                "objectId": 100094,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T07:35:12.058703+00:00",
+                "updatedAt": "2022-04-18T07:35:12.058703+00:00",
+                "path": "/gritlab/piscine-go/quest-08/boolean"
+            },
+            {
+                "id": 13634,
+                "objectId": 100095,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T07:49:58.216052+00:00",
+                "updatedAt": "2022-04-18T07:49:58.216052+00:00",
+                "path": "/gritlab/piscine-go/quest-08/point"
+            },
+            {
+                "id": 13640,
+                "objectId": 100095,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T07:53:00.555308+00:00",
+                "updatedAt": "2022-04-18T07:53:00.555308+00:00",
+                "path": "/gritlab/piscine-go/quest-08/point"
+            },
+            {
+                "id": 13655,
+                "objectId": 100095,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:02:07.736784+00:00",
+                "updatedAt": "2022-04-18T08:02:07.736784+00:00",
+                "path": "/gritlab/piscine-go/quest-08/point"
+            },
+            {
+                "id": 13661,
+                "objectId": 100095,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:05:13.296003+00:00",
+                "updatedAt": "2022-04-18T08:05:13.296003+00:00",
+                "path": "/gritlab/piscine-go/quest-08/point"
+            },
+            {
+                "id": 13675,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:13:00.135071+00:00",
+                "updatedAt": "2022-04-18T08:13:00.135071+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13700,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:24:41.713688+00:00",
+                "updatedAt": "2022-04-18T08:24:41.713688+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13710,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:31:23.95227+00:00",
+                "updatedAt": "2022-04-18T08:31:23.95227+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13717,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:37:07.418265+00:00",
+                "updatedAt": "2022-04-18T08:37:07.418265+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13722,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:40:47.494388+00:00",
+                "updatedAt": "2022-04-18T08:40:47.494388+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13727,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:44:14.534022+00:00",
+                "updatedAt": "2022-04-18T08:44:14.534022+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13734,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T08:52:23.194424+00:00",
+                "updatedAt": "2022-04-18T08:52:23.194424+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13752,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T09:07:22.262617+00:00",
+                "updatedAt": "2022-04-18T09:07:22.262617+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 13756,
+                "objectId": 100093,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T09:10:25.904962+00:00",
+                "updatedAt": "2022-04-18T09:10:25.904962+00:00",
+                "path": "/gritlab/piscine-go/quest-08/displayfile"
+            },
+            {
+                "id": 14122,
+                "objectId": 100096,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T14:08:11.697886+00:00",
+                "updatedAt": "2022-04-18T14:08:11.697886+00:00",
+                "path": "/gritlab/piscine-go/quest-08/cat"
+            },
+            {
+                "id": 14131,
+                "objectId": 100096,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T14:12:00.05127+00:00",
+                "updatedAt": "2022-04-18T14:12:00.05127+00:00",
+                "path": "/gritlab/piscine-go/quest-08/cat"
+            },
+            {
+                "id": 14146,
+                "objectId": 100096,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-18T14:26:05.669364+00:00",
+                "updatedAt": "2022-04-18T14:26:05.669364+00:00",
+                "path": "/gritlab/piscine-go/quest-08/cat"
+            },
+            {
+                "id": 14288,
+                "objectId": 100103,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T06:29:22.349221+00:00",
+                "updatedAt": "2022-04-19T06:29:22.349221+00:00",
+                "path": "/gritlab/piscine-go/quest-09/foreach"
+            },
+            {
+                "id": 14297,
+                "objectId": 100103,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T06:33:19.597526+00:00",
+                "updatedAt": "2022-04-19T06:33:19.597526+00:00",
+                "path": "/gritlab/piscine-go/quest-09/foreach"
+            },
+            {
+                "id": 14315,
+                "objectId": 100103,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T06:43:25.37316+00:00",
+                "updatedAt": "2022-04-19T06:43:25.37316+00:00",
+                "path": "/gritlab/piscine-go/quest-09/foreach"
+            },
+            {
+                "id": 14337,
+                "objectId": 100098,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T07:01:30.590338+00:00",
+                "updatedAt": "2022-04-19T07:01:30.590338+00:00",
+                "path": "/gritlab/piscine-go/quest-09/map"
+            },
+            {
+                "id": 14384,
+                "objectId": 100103,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T07:24:28.247406+00:00",
+                "updatedAt": "2022-04-19T07:24:28.247406+00:00",
+                "path": "/gritlab/piscine-go/quest-09/foreach"
+            },
+            {
+                "id": 14387,
+                "objectId": 100099,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T07:26:20.295801+00:00",
+                "updatedAt": "2022-04-19T07:26:20.295801+00:00",
+                "path": "/gritlab/piscine-go/quest-09/any"
+            },
+            {
+                "id": 14447,
+                "objectId": 100100,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T07:57:29.115936+00:00",
+                "updatedAt": "2022-04-19T07:57:29.115936+00:00",
+                "path": "/gritlab/piscine-go/quest-09/countif"
+            },
+            {
+                "id": 14458,
+                "objectId": 100101,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T08:02:00.440138+00:00",
+                "updatedAt": "2022-04-19T08:02:00.440138+00:00",
+                "path": "/gritlab/piscine-go/quest-09/issorted"
+            },
+            {
+                "id": 14705,
+                "objectId": 100101,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T11:38:45.051701+00:00",
+                "updatedAt": "2022-04-19T11:38:45.051701+00:00",
+                "path": "/gritlab/piscine-go/quest-09/issorted"
+            },
+            {
+                "id": 14708,
+                "objectId": 100101,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-19T11:42:05.491851+00:00",
+                "updatedAt": "2022-04-19T11:42:05.491851+00:00",
+                "path": "/gritlab/piscine-go/quest-09/issorted"
+            },
+            {
+                "id": 15044,
+                "objectId": 100217,
+                "userId": null,
+                "grade": 1,
+                "type": "admin_audit",
+                "createdAt": "2022-04-20T13:37:18.222816+00:00",
+                "updatedAt": "2022-04-20T13:37:18.222816+00:00",
+                "path": "/gritlab/piscine-go/sudoku"
+            },
+            {
+                "id": 15117,
+                "objectId": 100112,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T21:24:45.304459+00:00",
+                "updatedAt": "2022-04-20T21:24:45.304459+00:00",
+                "path": "/gritlab/piscine-go/quest-10/rot14"
+            },
+            {
+                "id": 15123,
+                "objectId": 100112,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T21:27:58.64602+00:00",
+                "updatedAt": "2022-04-20T21:27:58.64602+00:00",
+                "path": "/gritlab/piscine-go/quest-10/rot14"
+            },
+            {
+                "id": 15129,
+                "objectId": 100112,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T21:31:19.459476+00:00",
+                "updatedAt": "2022-04-20T21:31:19.459476+00:00",
+                "path": "/gritlab/piscine-go/quest-10/rot14"
+            },
+            {
+                "id": 15217,
+                "objectId": 100106,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T22:40:50.729029+00:00",
+                "updatedAt": "2022-04-20T22:40:50.729029+00:00",
+                "path": "/gritlab/piscine-go/quest-10/abort"
+            },
+            {
+                "id": 15228,
+                "objectId": 100106,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T22:44:12.366835+00:00",
+                "updatedAt": "2022-04-20T22:44:12.366835+00:00",
+                "path": "/gritlab/piscine-go/quest-10/abort"
+            },
+            {
+                "id": 15280,
+                "objectId": 100106,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T23:05:29.365147+00:00",
+                "updatedAt": "2022-04-20T23:05:29.365147+00:00",
+                "path": "/gritlab/piscine-go/quest-10/abort"
+            },
+            {
+                "id": 15286,
+                "objectId": 100106,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-20T23:09:28.612839+00:00",
+                "updatedAt": "2022-04-20T23:09:28.612839+00:00",
+                "path": "/gritlab/piscine-go/quest-10/abort"
+            },
+            {
+                "id": 15378,
+                "objectId": 100107,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T00:46:15.723382+00:00",
+                "updatedAt": "2022-04-21T00:46:15.723382+00:00",
+                "path": "/gritlab/piscine-go/quest-10/collatzcountdown"
+            },
+            {
+                "id": 15475,
+                "objectId": 100108,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T02:42:10.528115+00:00",
+                "updatedAt": "2022-04-21T02:42:10.528115+00:00",
+                "path": "/gritlab/piscine-go/quest-10/comcheck"
+            },
+            {
+                "id": 15482,
+                "objectId": 100108,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T02:45:14.344575+00:00",
+                "updatedAt": "2022-04-21T02:45:14.344575+00:00",
+                "path": "/gritlab/piscine-go/quest-10/comcheck"
+            },
+            {
+                "id": 15489,
+                "objectId": 100108,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T02:48:23.414562+00:00",
+                "updatedAt": "2022-04-21T02:48:23.414562+00:00",
+                "path": "/gritlab/piscine-go/quest-10/comcheck"
+            },
+            {
+                "id": 15591,
+                "objectId": 100109,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T04:48:21.909858+00:00",
+                "updatedAt": "2022-04-21T04:48:21.909858+00:00",
+                "path": "/gritlab/piscine-go/quest-10/enigma"
+            },
+            {
+                "id": 15692,
+                "objectId": 100114,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T06:42:22.826513+00:00",
+                "updatedAt": "2022-04-21T06:42:22.826513+00:00",
+                "path": "/gritlab/piscine-go/quest-10/pilot"
+            },
+            {
+                "id": 15785,
+                "objectId": 100115,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T08:51:07.225016+00:00",
+                "updatedAt": "2022-04-21T08:51:07.225016+00:00",
+                "path": "/gritlab/piscine-go/quest-10/fixthemain"
+            },
+            {
+                "id": 15941,
+                "objectId": 100110,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T11:08:16.419388+00:00",
+                "updatedAt": "2022-04-21T11:08:16.419388+00:00",
+                "path": "/gritlab/piscine-go/quest-10/compact"
+            },
+            {
+                "id": 16003,
+                "objectId": 100105,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T12:46:19.504299+00:00",
+                "updatedAt": "2022-04-21T12:46:19.504299+00:00",
+                "path": "/gritlab/piscine-go/quest-10/activebits"
+            },
+            {
+                "id": 16006,
+                "objectId": 100105,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T12:49:24.462892+00:00",
+                "updatedAt": "2022-04-21T12:49:24.462892+00:00",
+                "path": "/gritlab/piscine-go/quest-10/activebits"
+            },
+            {
+                "id": 16011,
+                "objectId": 100105,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T12:53:00.675537+00:00",
+                "updatedAt": "2022-04-21T12:53:00.675537+00:00",
+                "path": "/gritlab/piscine-go/quest-10/activebits"
+            },
+            {
+                "id": 16015,
+                "objectId": 100105,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T12:56:17.459679+00:00",
+                "updatedAt": "2022-04-21T12:56:17.459679+00:00",
+                "path": "/gritlab/piscine-go/quest-10/activebits"
+            },
+            {
+                "id": 16074,
+                "objectId": 100113,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T14:37:29.539035+00:00",
+                "updatedAt": "2022-04-21T14:37:29.539035+00:00",
+                "path": "/gritlab/piscine-go/quest-10/max"
+            },
+            {
+                "id": 16151,
+                "objectId": 100111,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T16:48:54.202285+00:00",
+                "updatedAt": "2022-04-21T16:48:54.202285+00:00",
+                "path": "/gritlab/piscine-go/quest-10/unmatch"
+            },
+            {
+                "id": 16156,
+                "objectId": 100111,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T16:52:06.171896+00:00",
+                "updatedAt": "2022-04-21T16:52:06.171896+00:00",
+                "path": "/gritlab/piscine-go/quest-10/unmatch"
+            },
+            {
+                "id": 16251,
+                "objectId": 100071,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-21T18:32:09.051237+00:00",
+                "updatedAt": "2022-04-21T18:32:09.051237+00:00",
+                "path": "/gritlab/piscine-go/quest-10/join"
+            },
+            {
+                "id": 16623,
+                "objectId": 100207,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:35:37.99888+00:00",
+                "updatedAt": "2022-04-22T10:35:37.99888+00:00",
+                "path": "/gritlab/piscine-go/exam-03/paramcount"
+            },
+            {
+                "id": 16620,
+                "objectId": 100207,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:35:25.505783+00:00",
+                "updatedAt": "2022-04-22T10:35:25.505783+00:00",
+                "path": "/gritlab/piscine-go/exam-03/paramcount"
+            },
+            {
+                "id": 16629,
+                "objectId": 100207,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:36:15.469908+00:00",
+                "updatedAt": "2022-04-22T10:36:15.469908+00:00",
+                "path": "/gritlab/piscine-go/exam-03/paramcount"
+            },
+            {
+                "id": 16635,
+                "objectId": 100207,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:36:58.386082+00:00",
+                "updatedAt": "2022-04-22T10:36:58.386082+00:00",
+                "path": "/gritlab/piscine-go/exam-03/paramcount"
+            },
+            {
+                "id": 16825,
+                "objectId": 100032,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:55:24.607462+00:00",
+                "updatedAt": "2022-04-22T10:55:24.607462+00:00",
+                "path": "/gritlab/piscine-go/exam-03/ispowerof2"
+            },
+            {
+                "id": 16852,
+                "objectId": 100032,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:57:30.723399+00:00",
+                "updatedAt": "2022-04-22T10:57:30.723399+00:00",
+                "path": "/gritlab/piscine-go/exam-03/ispowerof2"
+            },
+            {
+                "id": 16846,
+                "objectId": 100032,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:57:14.171407+00:00",
+                "updatedAt": "2022-04-22T10:57:14.171407+00:00",
+                "path": "/gritlab/piscine-go/exam-03/ispowerof2"
+            },
+            {
+                "id": 16869,
+                "objectId": 100032,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T10:58:28.116246+00:00",
+                "updatedAt": "2022-04-22T10:58:28.116246+00:00",
+                "path": "/gritlab/piscine-go/exam-03/ispowerof2"
+            },
+            {
+                "id": 17299,
+                "objectId": 100032,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-22T11:32:18.519209+00:00",
+                "updatedAt": "2022-04-22T11:32:18.519209+00:00",
+                "path": "/gritlab/piscine-go/exam-03/ispowerof2"
+            },
+            {
+                "id": 17936,
+                "objectId": 100206,
+                "userId": 1137,
+                "grade": null,
+                "type": "tester",
+                "createdAt": "2022-04-22T12:50:41.62166+00:00",
+                "updatedAt": "2022-04-22T12:50:41.62166+00:00",
+                "path": "/gritlab/piscine-go/exam-03"
+            },
+            {
+                "id": 18322,
+                "objectId": 100206,
+                "userId": 1137,
+                "grade": 0.08333333333333333,
+                "type": "admin_selection",
+                "createdAt": "2022-04-22T14:00:00.929648+00:00",
+                "updatedAt": "2022-04-22T14:00:00.929648+00:00",
+                "path": "/gritlab/piscine-go/exam-03"
+            },
+            {
+                "id": 18470,
+                "objectId": 100118,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T07:08:04.696954+00:00",
+                "updatedAt": "2022-04-25T07:08:04.696954+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listpushback"
+            },
+            {
+                "id": 18475,
+                "objectId": 100118,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T07:11:26.181688+00:00",
+                "updatedAt": "2022-04-25T07:11:26.181688+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listpushback"
+            },
+            {
+                "id": 18656,
+                "objectId": 100119,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T10:23:19.146333+00:00",
+                "updatedAt": "2022-04-25T10:23:19.146333+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listpushfront"
+            },
+            {
+                "id": 18661,
+                "objectId": 100118,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T10:29:12.631787+00:00",
+                "updatedAt": "2022-04-25T10:29:12.631787+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listpushback"
+            },
+            {
+                "id": 18664,
+                "objectId": 100119,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T10:31:00.705036+00:00",
+                "updatedAt": "2022-04-25T10:31:00.705036+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listpushfront"
+            },
+            {
+                "id": 18676,
+                "objectId": 100054,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T10:40:28.440152+00:00",
+                "updatedAt": "2022-04-25T10:40:28.440152+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listsize"
+            },
+            {
+                "id": 18686,
+                "objectId": 100118,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T10:45:36.458478+00:00",
+                "updatedAt": "2022-04-25T10:45:36.458478+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listpushback"
+            },
+            {
+                "id": 18689,
+                "objectId": 100054,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T10:46:09.858798+00:00",
+                "updatedAt": "2022-04-25T10:46:09.858798+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listsize"
+            },
+            {
+                "id": 18756,
+                "objectId": 100120,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T11:48:22.245095+00:00",
+                "updatedAt": "2022-04-25T11:48:22.245095+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listlast"
+            },
+            {
+                "id": 18778,
+                "objectId": 100121,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T12:00:33.455534+00:00",
+                "updatedAt": "2022-04-25T12:00:33.455534+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listclear"
+            },
+            {
+                "id": 18795,
+                "objectId": 100122,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T12:12:28.91666+00:00",
+                "updatedAt": "2022-04-25T12:12:28.91666+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listat"
+            },
+            {
+                "id": 18838,
+                "objectId": 100123,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T12:51:38.231267+00:00",
+                "updatedAt": "2022-04-25T12:51:38.231267+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listreverse"
+            },
+            {
+                "id": 18851,
+                "objectId": 100124,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:00:30.287846+00:00",
+                "updatedAt": "2022-04-25T13:00:30.287846+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listforeach"
+            },
+            {
+                "id": 18858,
+                "objectId": 100124,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:03:45.406462+00:00",
+                "updatedAt": "2022-04-25T13:03:45.406462+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listforeach"
+            },
+            {
+                "id": 18872,
+                "objectId": 100125,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:11:59.348025+00:00",
+                "updatedAt": "2022-04-25T13:11:59.348025+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listforeachif"
+            },
+            {
+                "id": 18880,
+                "objectId": 100125,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:15:02.383724+00:00",
+                "updatedAt": "2022-04-25T13:15:02.383724+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listforeachif"
+            },
+            {
+                "id": 18890,
+                "objectId": 100125,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:18:06.697603+00:00",
+                "updatedAt": "2022-04-25T13:18:06.697603+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listforeachif"
+            },
+            {
+                "id": 18901,
+                "objectId": 100117,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:23:02.620741+00:00",
+                "updatedAt": "2022-04-25T13:23:02.620741+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listfind"
+            },
+            {
+                "id": 18908,
+                "objectId": 100117,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:26:05.406155+00:00",
+                "updatedAt": "2022-04-25T13:26:05.406155+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listfind"
+            },
+            {
+                "id": 18916,
+                "objectId": 100053,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:29:12.642386+00:00",
+                "updatedAt": "2022-04-25T13:29:12.642386+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listremoveif"
+            },
+            {
+                "id": 18921,
+                "objectId": 100126,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:33:17.944984+00:00",
+                "updatedAt": "2022-04-25T13:33:17.944984+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listmerge"
+            },
+            {
+                "id": 18925,
+                "objectId": 100127,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:37:20.655397+00:00",
+                "updatedAt": "2022-04-25T13:37:20.655397+00:00",
+                "path": "/gritlab/piscine-go/quest-11/listsort"
+            },
+            {
+                "id": 18935,
+                "objectId": 100128,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:43:40.598311+00:00",
+                "updatedAt": "2022-04-25T13:43:40.598311+00:00",
+                "path": "/gritlab/piscine-go/quest-11/sortlistinsert"
+            },
+            {
+                "id": 18939,
+                "objectId": 100128,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:46:46.113955+00:00",
+                "updatedAt": "2022-04-25T13:46:46.113955+00:00",
+                "path": "/gritlab/piscine-go/quest-11/sortlistinsert"
+            },
+            {
+                "id": 18940,
+                "objectId": 100129,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-25T13:48:07.834036+00:00",
+                "updatedAt": "2022-04-25T13:48:07.834036+00:00",
+                "path": "/gritlab/piscine-go/quest-11/sortedlistmerge"
+            },
+            {
+                "id": 19366,
+                "objectId": 100133,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T07:38:58.432628+00:00",
+                "updatedAt": "2022-04-26T07:38:58.432628+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeinsertdata"
+            },
+            {
+                "id": 19394,
+                "objectId": 100134,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T07:56:04.297328+00:00",
+                "updatedAt": "2022-04-26T07:56:04.297328+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeapplyinorder"
+            },
+            {
+                "id": 19419,
+                "objectId": 100131,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:14:01.199183+00:00",
+                "updatedAt": "2022-04-26T08:14:01.199183+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeapplypostorder"
+            },
+            {
+                "id": 19422,
+                "objectId": 100135,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:16:12.45185+00:00",
+                "updatedAt": "2022-04-26T08:16:12.45185+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeapplypreorder"
+            },
+            {
+                "id": 19427,
+                "objectId": 100135,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:19:16.820331+00:00",
+                "updatedAt": "2022-04-26T08:19:16.820331+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeapplypreorder"
+            },
+            {
+                "id": 19443,
+                "objectId": 100136,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:29:07.20202+00:00",
+                "updatedAt": "2022-04-26T08:29:07.20202+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreesearchitem"
+            },
+            {
+                "id": 19449,
+                "objectId": 100136,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:32:11.997834+00:00",
+                "updatedAt": "2022-04-26T08:32:11.997834+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreesearchitem"
+            },
+            {
+                "id": 19463,
+                "objectId": 100137,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:41:26.727873+00:00",
+                "updatedAt": "2022-04-26T08:41:26.727873+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreelevelcount"
+            },
+            {
+                "id": 19490,
+                "objectId": 100138,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:53:30.811612+00:00",
+                "updatedAt": "2022-04-26T08:53:30.811612+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeisbinary"
+            },
+            {
+                "id": 19494,
+                "objectId": 100142,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T08:57:18.401356+00:00",
+                "updatedAt": "2022-04-26T08:57:18.401356+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeapplybylevel"
+            },
+            {
+                "id": 19539,
+                "objectId": 100142,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T09:22:35.650764+00:00",
+                "updatedAt": "2022-04-26T09:22:35.650764+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreeapplybylevel"
+            },
+            {
+                "id": 19543,
+                "objectId": 100139,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T09:27:22.573434+00:00",
+                "updatedAt": "2022-04-26T09:27:22.573434+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreemax"
+            },
+            {
+                "id": 19547,
+                "objectId": 100140,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T09:29:16.676991+00:00",
+                "updatedAt": "2022-04-26T09:29:16.676991+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreemin"
+            },
+            {
+                "id": 19640,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T10:34:28.298069+00:00",
+                "updatedAt": "2022-04-26T10:34:28.298069+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19650,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T10:37:52.733713+00:00",
+                "updatedAt": "2022-04-26T10:37:52.733713+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19651,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T10:40:55.862094+00:00",
+                "updatedAt": "2022-04-26T10:40:55.862094+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19674,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T10:56:59.715575+00:00",
+                "updatedAt": "2022-04-26T10:56:59.715575+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19678,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T11:00:07.92737+00:00",
+                "updatedAt": "2022-04-26T11:00:07.92737+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19685,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T11:04:21.038403+00:00",
+                "updatedAt": "2022-04-26T11:04:21.038403+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19691,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T11:07:43.519748+00:00",
+                "updatedAt": "2022-04-26T11:07:43.519748+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19694,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T11:11:02.964588+00:00",
+                "updatedAt": "2022-04-26T11:11:02.964588+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19696,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T11:14:30.986404+00:00",
+                "updatedAt": "2022-04-26T11:14:30.986404+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 19703,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-26T11:19:04.414713+00:00",
+                "updatedAt": "2022-04-26T11:19:04.414713+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 20459,
+                "objectId": 100026,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T05:07:41.924598+00:00",
+                "updatedAt": "2022-04-28T05:07:41.924598+00:00",
+                "path": "/gritlab/piscine-go/final-exam/countdown"
+            },
+            {
+                "id": 20642,
+                "objectId": 100031,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T05:18:40.620184+00:00",
+                "updatedAt": "2022-04-28T05:18:40.620184+00:00",
+                "path": "/gritlab/piscine-go/final-exam/lastword"
+            },
+            {
+                "id": 20750,
+                "objectId": 100027,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T05:25:08.232364+00:00",
+                "updatedAt": "2022-04-28T05:25:08.232364+00:00",
+                "path": "/gritlab/piscine-go/final-exam/alphamirror"
+            },
+            {
+                "id": 20758,
+                "objectId": 100027,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T05:25:45.648545+00:00",
+                "updatedAt": "2022-04-28T05:25:45.648545+00:00",
+                "path": "/gritlab/piscine-go/final-exam/alphamirror"
+            },
+            {
+                "id": 21721,
+                "objectId": 100015,
+                "userId": 1137,
+                "grade": null,
+                "type": "tester",
+                "createdAt": "2022-04-28T06:55:17.050097+00:00",
+                "updatedAt": "2022-04-28T06:55:17.050097+00:00",
+                "path": "/gritlab/piscine-go/final-exam"
+            },
+            {
+                "id": 23328,
+                "objectId": 100015,
+                "userId": 1137,
+                "grade": 0.13333333333333333,
+                "type": "admin_selection",
+                "createdAt": "2022-04-28T13:00:01.162158+00:00",
+                "updatedAt": "2022-04-28T13:00:01.162158+00:00",
+                "path": "/gritlab/piscine-go/final-exam"
+            },
+            {
+                "id": 23393,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T14:30:58.277611+00:00",
+                "updatedAt": "2022-04-28T14:30:58.277611+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 23394,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T14:34:02.046181+00:00",
+                "updatedAt": "2022-04-28T14:34:02.046181+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 23395,
+                "objectId": 100141,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T14:37:04.906574+00:00",
+                "updatedAt": "2022-04-28T14:37:04.906574+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreetransplant"
+            },
+            {
+                "id": 23396,
+                "objectId": 100132,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T14:38:02.201216+00:00",
+                "updatedAt": "2022-04-28T14:38:02.201216+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreedeletenode"
+            },
+            {
+                "id": 23397,
+                "objectId": 100132,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-04-28T14:41:05.361558+00:00",
+                "updatedAt": "2022-04-28T14:41:05.361558+00:00",
+                "path": "/gritlab/piscine-go/quest-12/btreedeletenode"
+            },
+            {
+                "id": 23401,
+                "objectId": 100014,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "admin_selection",
+                "createdAt": "2022-04-30T15:01:01.075466+00:00",
+                "updatedAt": "2022-06-16T06:45:55.8298+00:00",
+                "path": "/gritlab/piscine-go"
+            },
+            {
+                "id": 45828,
+                "objectId": 100391,
+                "userId": null,
+                "grade": 1.2,
+                "type": "user_audit",
+                "createdAt": "2022-09-06T07:26:21.986046+00:00",
+                "updatedAt": "2022-09-06T07:26:21.986046+00:00",
+                "path": "/gritlab/school-curriculum/go-reloaded"
+            },
+            {
+                "id": 48493,
+                "objectId": 100525,
+                "userId": null,
+                "grade": 1.5272727272727271,
+                "type": "user_audit",
+                "createdAt": "2022-09-21T14:12:51.69088+00:00",
+                "updatedAt": "2022-09-21T14:12:51.69088+00:00",
+                "path": "/gritlab/school-curriculum/ascii-art"
+            },
+            {
+                "id": 48497,
+                "objectId": 100370,
+                "userId": null,
+                "grade": 1.5388235294117647,
+                "type": "user_audit",
+                "createdAt": "2022-09-22T09:49:50.13461+00:00",
+                "updatedAt": "2022-09-22T09:49:50.13461+00:00",
+                "path": "/gritlab/school-curriculum/fs"
+            },
+            {
+                "id": 47215,
+                "objectId": 100576,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:08:33.194542+00:00",
+                "updatedAt": "2022-09-15T10:08:33.194542+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/displayfirstparam"
+            },
+            {
+                "id": 47211,
+                "objectId": 100576,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:08:18.276603+00:00",
+                "updatedAt": "2022-09-15T10:08:18.276603+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/displayfirstparam"
+            },
+            {
+                "id": 47227,
+                "objectId": 100576,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:09:37.596273+00:00",
+                "updatedAt": "2022-09-15T10:09:37.596273+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/displayfirstparam"
+            },
+            {
+                "id": 47236,
+                "objectId": 100576,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:10:16.756172+00:00",
+                "updatedAt": "2022-09-15T10:10:16.756172+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/displayfirstparam"
+            },
+            {
+                "id": 47247,
+                "objectId": 100576,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:11:06.879472+00:00",
+                "updatedAt": "2022-09-15T10:11:06.879472+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/displayfirstparam"
+            },
+            {
+                "id": 47277,
+                "objectId": 100549,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:12:59.019318+00:00",
+                "updatedAt": "2022-09-15T10:12:59.019318+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/countdown"
+            },
+            {
+                "id": 47488,
+                "objectId": 100569,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:29:02.768296+00:00",
+                "updatedAt": "2022-09-15T10:29:02.768296+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/rot13"
+            },
+            {
+                "id": 47482,
+                "objectId": 100569,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:28:17.498317+00:00",
+                "updatedAt": "2022-09-15T10:28:17.498317+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/rot13"
+            },
+            {
+                "id": 47497,
+                "objectId": 100569,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:29:54.742518+00:00",
+                "updatedAt": "2022-09-15T10:29:54.742518+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/rot13"
+            },
+            {
+                "id": 47503,
+                "objectId": 100569,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:30:28.635182+00:00",
+                "updatedAt": "2022-09-15T10:30:28.635182+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/rot13"
+            },
+            {
+                "id": 47554,
+                "objectId": 100550,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:35:18.406841+00:00",
+                "updatedAt": "2022-09-15T10:35:18.406841+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/alphamirror"
+            },
+            {
+                "id": 47563,
+                "objectId": 100550,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:36:43.555976+00:00",
+                "updatedAt": "2022-09-15T10:36:43.555976+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/alphamirror"
+            },
+            {
+                "id": 47545,
+                "objectId": 100550,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:34:38.005382+00:00",
+                "updatedAt": "2022-09-15T10:34:38.005382+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/alphamirror"
+            },
+            {
+                "id": 47573,
+                "objectId": 100550,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:37:34.40005+00:00",
+                "updatedAt": "2022-09-15T10:37:34.40005+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/alphamirror"
+            },
+            {
+                "id": 47586,
+                "objectId": 100580,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:40:02.788475+00:00",
+                "updatedAt": "2022-09-15T10:40:02.788475+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/reversebits"
+            },
+            {
+                "id": 47594,
+                "objectId": 100544,
+                "userId": 1137,
+                "grade": null,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:40:41.490985+00:00",
+                "updatedAt": "2022-09-15T10:40:41.490985+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint"
+            },
+            {
+                "id": 47585,
+                "objectId": 100580,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2022-09-15T10:39:47.632906+00:00",
+                "updatedAt": "2022-09-15T10:39:47.632906+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint/reversebits"
+            },
+            {
+                "id": 48443,
+                "objectId": 100544,
+                "userId": 1137,
+                "grade": 0.2727272727272727,
+                "type": "admin_selection",
+                "createdAt": "2022-09-15T13:00:01.433131+00:00",
+                "updatedAt": "2022-09-15T13:00:01.433131+00:00",
+                "path": "/gritlab/school-curriculum/checkpoint"
+            },
+            {
+                "id": 49783,
+                "objectId": 100523,
+                "userId": null,
+                "grade": 1.824,
+                "type": "user_audit",
+                "createdAt": "2022-09-26T09:41:41.719562+00:00",
+                "updatedAt": "2022-09-26T09:41:41.719562+00:00",
+                "path": "/gritlab/school-curriculum/ascii-art-web"
+            },
+            {
+                "id": 49805,
+                "objectId": 100367,
+                "userId": null,
+                "grade": 2.832,
+                "type": "user_audit",
+                "createdAt": "2022-09-29T09:16:48.205954+00:00",
+                "updatedAt": "2022-09-29T09:16:48.205954+00:00",
+                "path": "/gritlab/school-curriculum/stylize"
+            },
+            {
+                "id": 51366,
+                "objectId": 100366,
+                "userId": null,
+                "grade": 2.8000000000000003,
+                "type": "user_audit",
+                "createdAt": "2022-09-29T17:00:29.962751+00:00",
+                "updatedAt": "2022-09-29T17:00:29.962751+00:00",
+                "path": "/gritlab/school-curriculum/dockerize"
+            },
+            {
+                "id": 52549,
+                "objectId": 100520,
+                "userId": null,
+                "grade": 1.5333333333333332,
+                "type": "user_audit",
+                "createdAt": "2022-10-26T21:55:44.624333+00:00",
+                "updatedAt": "2022-10-26T21:55:44.624333+00:00",
+                "path": "/gritlab/school-curriculum/groupie-tracker"
+            },
+            {
+                "id": 53949,
+                "objectId": 100521,
+                "userId": null,
+                "grade": 1.552941176470588,
+                "type": "user_audit",
+                "createdAt": "2022-10-27T14:56:17.917496+00:00",
+                "updatedAt": "2022-10-27T14:56:17.917496+00:00",
+                "path": "/gritlab/school-curriculum/net-cat"
+            },
+            {
+                "id": 55015,
+                "objectId": 100362,
+                "userId": null,
+                "grade": 2.28,
+                "type": "user_audit",
+                "createdAt": "2022-11-10T11:07:57.228634+00:00",
+                "updatedAt": "2022-11-10T11:07:57.228634+00:00",
+                "path": "/gritlab/school-curriculum/visualizations"
+            },
+            {
+                "id": 57746,
+                "objectId": 100519,
+                "userId": null,
+                "grade": 1.428,
+                "type": "user_audit",
+                "createdAt": "2022-11-29T09:22:32.328662+00:00",
+                "updatedAt": "2022-11-29T09:22:32.328662+00:00",
+                "path": "/gritlab/school-curriculum/lem-in"
+            },
+            {
+                "id": 57906,
+                "objectId": 100372,
+                "userId": null,
+                "grade": 1.8239999999999998,
+                "type": "user_audit",
+                "createdAt": "2022-12-12T15:20:15.707564+00:00",
+                "updatedAt": "2022-12-12T15:20:15.707564+00:00",
+                "path": "/gritlab/school-curriculum/color"
+            },
+            {
+                "id": 58497,
+                "objectId": 100406,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T08:35:28.677039+00:00",
+                "updatedAt": "2023-01-09T08:35:28.677039+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/how-2-js"
+            },
+            {
+                "id": 58551,
+                "objectId": 100407,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T08:43:52.592572+00:00",
+                "updatedAt": "2023-01-09T08:43:52.592572+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/primitives"
+            },
+            {
+                "id": 58705,
+                "objectId": 100420,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:07:37.026505+00:00",
+                "updatedAt": "2023-01-09T09:07:37.026505+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/declarations"
+            },
+            {
+                "id": 58737,
+                "objectId": 100420,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:12:00.193499+00:00",
+                "updatedAt": "2023-01-09T09:12:00.193499+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/declarations"
+            },
+            {
+                "id": 58770,
+                "objectId": 100420,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:16:57.581603+00:00",
+                "updatedAt": "2023-01-09T09:16:57.581603+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/declarations"
+            },
+            {
+                "id": 58795,
+                "objectId": 100420,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:20:48.652142+00:00",
+                "updatedAt": "2023-01-09T09:20:48.652142+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/declarations"
+            },
+            {
+                "id": 58815,
+                "objectId": 100420,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:23:56.838887+00:00",
+                "updatedAt": "2023-01-09T09:23:56.838887+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/declarations"
+            },
+            {
+                "id": 58926,
+                "objectId": 100408,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:44:23.485518+00:00",
+                "updatedAt": "2023-01-09T09:44:23.485518+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/mutability"
+            },
+            {
+                "id": 58940,
+                "objectId": 100409,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:46:44.075558+00:00",
+                "updatedAt": "2023-01-09T09:46:44.075558+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/more-or-less"
+            },
+            {
+                "id": 58984,
+                "objectId": 100421,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:54:27.047849+00:00",
+                "updatedAt": "2023-01-09T09:54:27.047849+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/returns"
+            },
+            {
+                "id": 58965,
+                "objectId": 100409,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:50:53.433756+00:00",
+                "updatedAt": "2023-01-09T09:50:53.433756+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/more-or-less"
+            },
+            {
+                "id": 59004,
+                "objectId": 100421,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T09:57:33.242875+00:00",
+                "updatedAt": "2023-01-09T09:57:33.242875+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/returns"
+            },
+            {
+                "id": 59029,
+                "objectId": 100421,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:00:55.89066+00:00",
+                "updatedAt": "2023-01-09T10:00:55.89066+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/returns"
+            },
+            {
+                "id": 59092,
+                "objectId": 100410,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:12:35.939814+00:00",
+                "updatedAt": "2023-01-09T10:12:35.939814+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/last-first-kiss"
+            },
+            {
+                "id": 59107,
+                "objectId": 100410,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:15:50.271737+00:00",
+                "updatedAt": "2023-01-09T10:15:50.271737+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/last-first-kiss"
+            },
+            {
+                "id": 59131,
+                "objectId": 100411,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:19:30.973846+00:00",
+                "updatedAt": "2023-01-09T10:19:30.973846+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/concat-str"
+            },
+            {
+                "id": 59145,
+                "objectId": 100411,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:22:37.469552+00:00",
+                "updatedAt": "2023-01-09T10:22:37.469552+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/concat-str"
+            },
+            {
+                "id": 59221,
+                "objectId": 100412,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:36:11.993396+00:00",
+                "updatedAt": "2023-01-09T10:36:11.993396+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/change"
+            },
+            {
+                "id": 59326,
+                "objectId": 100422,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T10:57:20.238415+00:00",
+                "updatedAt": "2023-01-09T10:57:20.238415+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/dog-years"
+            },
+            {
+                "id": 59343,
+                "objectId": 100413,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T11:00:21.265004+00:00",
+                "updatedAt": "2023-01-09T11:00:21.265004+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/circular"
+            },
+            {
+                "id": 59360,
+                "objectId": 100413,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T11:03:28.637207+00:00",
+                "updatedAt": "2023-01-09T11:03:28.637207+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/circular"
+            },
+            {
+                "id": 59435,
+                "objectId": 100414,
+                "userId": 1137,
+                "grade": 0.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T11:19:57.734812+00:00",
+                "updatedAt": "2023-01-09T11:19:57.734812+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/biggie-smalls"
+            },
+            {
+                "id": 59469,
+                "objectId": 100414,
+                "userId": 1137,
+                "grade": 1.0,
+                "type": "tester",
+                "createdAt": "2023-01-09T11:26:08.01631+00:00",
+                "updatedAt": "2023-01-09T11:26:08.01631+00:00",
+                "path": "/gritlab/school-curriculum/piscine-js/data/biggie-smalls"
+            }
+        ]
+    }
+}

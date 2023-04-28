@@ -1,5 +1,4 @@
 
-
 document.querySelector("login-page").style.display = "block";
 document.querySelector("dashboard-page").style.display = "none";
 
@@ -8,30 +7,30 @@ const password = document.querySelector('#password').value;
 
 document.getElementById("loginSubmit").addEventListener("click", login);
 
- function login(e){
-    let formData = {
-        "emailUsername": document.getElementById("loginUsername").value,
-        "password": document.getElementById("loginPassword").value,
-    }
-    if (!validLoginForm(formData)) {
-        e.preventDefault();
-        console.log("invalid login form");
-        return false;
-    };
-    const credentials = `${username}:${password}`;
-    const encodedCredentials = new TextEncoder().encode(credentials);
-    const base64Credentials = fromByteArray(encodedCredentials);
-    fetch('/signin', {
-    method: 'POST',
-    headers: {
-        'Authorization': `Basic ${base64Credentials}`,
-    },
-    })
-    .then(response => response.json())
-    .then(data => {
-        console.log(data);
-    })
- 
+function login(e){
+let formData = {
+    "emailUsername": document.getElementById("loginUsername").value,
+    "password": document.getElementById("loginPassword").value,
+}
+if (!validLoginForm(formData)) {
+    e.preventDefault();
+    console.log("invalid login form");
+    return false;
+};
+const credentials = `${username}:${password}`;
+const encodedCredentials = new TextEncoder().encode(credentials);
+const base64Credentials = fromByteArray(encodedCredentials);
+fetch('/signin', {
+method: 'POST',
+headers: {
+    'Authorization': `Basic ${base64Credentials}`,
+},
+})
+.then(response => response.json())
+.then(data => {
+    console.log(data);
+})
+
 }
 
 function validLoginForm(formData){

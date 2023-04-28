@@ -7,8 +7,8 @@ class Login extends HTMLElement{
         <div class="container__left">
             <div class="main__logo-title">
                 <a href="" class="mainlogo__link" id="mainlogo">
-                    <h1>SkillStack</h1>
-                    <h6>Track Your Progress</h6>
+                    <h1>Ask Åland</h1>
+                    <h6>One-stop for all things Åland</h6>
                 </a>
             </div>
         </div>
@@ -24,19 +24,22 @@ class Login extends HTMLElement{
                     <!--username-->
                   <!--   <h2>Username</h2> -->
                     <div class="form__input-error-message" id="loginUsernameErrMsg"></div>
-                    <input type="text" class="form__input" autofocus placeholder="Username" name="loginUsername" id="username" required>
+                    <input type="text" class="form__input" autofocus placeholder="Username or Email" name="loginUsername" id="loginUsername" required>
                 </div>
  
                 <div class="form__input-group">
                     <!--password-->
                     <!-- <h2>Password</h2> -->
                     <div class="form__input-error-message" id="loginPasswordErrMsg"></div>
-                    <input type="password" class="form__input" autofocus placeholder="Password" id="password" name="password" required>
+                    <input type="password" class="form__input" autofocus placeholder="Password" id="loginPassword" name="loginPassword" required>
                     
                 </div>
  
                 <!--submit button-->
                 <input type="submit" class="form__button" id="loginSubmit" value="Submit">
+                <p class="form__text">
+                    <a href="#" class="form__link" id="linkRegister">Not a user? Register</a>
+                </p>
             </form>`
     }
 }
