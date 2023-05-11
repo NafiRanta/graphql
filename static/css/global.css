@@ -15,10 +15,20 @@ body, html{
     display: flex;
 
     /* website to auto-fit in the page */
-    position:fixed;
+    position: absolute;
     top:0;
     bottom:0;
     left:0;
     right:0;
 }
 
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+}

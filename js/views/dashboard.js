@@ -130,6 +130,7 @@ class Dashboard extends HTMLElement{
   };
   
   logOut(event) {
+    console.log('Log out button clicked.')
     // event.preventDefault();
     console.log('Log out button clicked.')
     localStorage.removeItem('jwt');
@@ -138,8 +139,7 @@ class Dashboard extends HTMLElement{
   }
 
   connectedCallback() {
-    // this.render();
-    this.addEventListener("click", this.logOut);
+    this.render();
   }
   disconnectedCallback() {}
 
@@ -206,7 +206,6 @@ skills.forEach((skill, index) => {
     `<div class="container">`
     + 
     `<div class="py-5 text-center">
-        <img class="mb-4" src="./favicon_io/android-chrome-512x512.png" alt="" width="72" height="72">
         <h2>Welcome, ${data.user[0].firstName} ${data.user[0].lastName}!</h2>
         <button id="logout-btn" class="btn btn-lg w-25 mx-auto btn-primary btn-block" type="button">Log Out</button>
 
@@ -253,6 +252,10 @@ skills.forEach((skill, index) => {
     </div>`
     + svgWithRectsString +
     `</div>`;
+    const logoutBtn = document.querySelector("#logout-btn");
+    console.log("logoutBtn", logoutBtn);
+    logoutBtn.addEventListener("click", this.logOut);
+    
   }
 }
   customElements.define("dashboard-page", Dashboard);

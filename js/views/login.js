@@ -3,8 +3,9 @@ class Login extends HTMLElement{
         super();
     }
     async login(e){
-        const username = document.querySelector('#username').value;
-        const password = document.querySelector('#password').value;
+        e.preventDefault();
+        const username = document.getElementById('loginUsername').value;
+        const password = document.getElementById('loginPassword').value;
         let formData = {
             "emailUsername": document.getElementById("loginUsername").value,
             "password": document.getElementById("loginPassword").value,
@@ -52,8 +53,8 @@ class Login extends HTMLElement{
         <div class="container__left">
             <div class="main__logo-title">
                 <a href="" class="mainlogo__link" id="mainlogo">
-                    <h1>Ask Åland</h1>
-                    <h6>One-stop for all things Åland</h6>
+                    <h1>GraphQL</h1>
+                    <h6>By Nafi</h6>
                 </a>
             </div>
         </div>
@@ -88,6 +89,10 @@ class Login extends HTMLElement{
             </form>
         </div>`
     }
+}
+
+function fromByteArray(uint8array) {
+    return btoa(String.fromCharCode.apply(null, uint8array));
 }
 
 customElements.define("login-page", Login);
