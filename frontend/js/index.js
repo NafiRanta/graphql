@@ -7,7 +7,7 @@ const password = document.querySelector('#password').value;
 
 document.getElementById("loginSubmit").addEventListener("click", login);
 
-function login(e){
+async function login(e){
 let formData = {
     "emailUsername": document.getElementById("loginUsername").value,
     "password": document.getElementById("loginPassword").value,
@@ -20,17 +20,27 @@ if (!validLoginForm(formData)) {
 const credentials = `${username}:${password}`;
 const encodedCredentials = new TextEncoder().encode(credentials);
 const base64Credentials = fromByteArray(encodedCredentials);
-fetch('/signin', {
-method: 'POST',
-headers: {
-    'Authorization': `Basic ${base64Credentials}`,
-},
-})
-.then(response => response.json())
-.then(data => {
-    console.log(data);
-})
+const headers = new Headers();
+headers.append('Authorization', 'Basic ' + base64Credentials);
+headers.append('Content-Type', 'application/json');
+   try {
+        const response = await fetch('https://01.gritlab.ax/api/auth/signin', {
+            method: 'POST',
+            headers: headers,
+        })
 
+        if (response.ok) {
+            const data = await response.json();
+            console.log(data);
+            localStorage.setItem('jwt', data);
+            location.reload();
+        } else {
+            throw new Error('HTTP status code: ' + response.status);
+        }
+    }
+    catch (error) {
+        console.log(error);
+    }
 }
 
 function validLoginForm(formData){
