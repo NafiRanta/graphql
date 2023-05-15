@@ -28,6 +28,7 @@ const urlLocationHolder = async () => {
    
     var route = urlRoutes[location];
     console.log("route", route)
+    console.log("route template", route.template)
     if (location == '/login') {
         document.getElementById('main').innerHTML = "<login-page></login-page>"
     }
