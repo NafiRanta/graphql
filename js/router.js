@@ -16,9 +16,9 @@ const urlRoute = (path) => {
 
 const urlLocationHolder = async () => {
     var location = window.location.pathname;
-
-    console.log("location", location)
     var jwt = localStorage.getItem('jwt');
+    console.log("location", location)
+    
     console.log("jwt", jwt)
     if (jwt == null && location == '/graphql/') {
         console.log("no jwt and index.html")
