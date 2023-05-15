@@ -29,7 +29,6 @@ class Login extends HTMLElement{
     
             if (response.ok) {
                 const data = await response.json();
-                console.log(data);
                 localStorage.setItem('jwt', data);
                 // go to dashboard
                 location.reload();

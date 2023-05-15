@@ -1,7 +1,6 @@
 class Dashboard extends HTMLElement{
     constructor() {
         super();
-        console.log("super run first");
         this.loadUserData();
       }
 
@@ -9,7 +8,6 @@ class Dashboard extends HTMLElement{
         const jwt = localStorage.getItem("jwt");
         const decodedJwt = this.decodeJwt(jwt);
         const response = await this.getQuery(decodedJwt.sub, jwt);
-        console.log("this is res", response);
 
         this.render(response.data);
     }
@@ -100,7 +98,6 @@ class Dashboard extends HTMLElement{
     return data;
   }
   catch(error) {
-    console.log(error);
     throw new Error("Failed to fetch data from GraphQL API");
   }
 
@@ -130,11 +127,7 @@ class Dashboard extends HTMLElement{
   };
   
   logOut(event) {
-    console.log('Log out button clicked.')
-    // event.preventDefault();
-    console.log('Log out button clicked.')
     localStorage.removeItem('jwt');
-    console.log('JWT token removed from local storage.');
     location.reload();
   }
 
@@ -180,9 +173,6 @@ let rectString = '';
 skills.forEach((skill, index) => {
   const x = index * barWidth;
   const y = 370 - skill.amount * barHeight;
-  console.log('x', x);
-  console.log('y', y);
-
   const width = barWidth;
   const height = skill.amount * barHeight;
   // const fill = this.randomColor();
@@ -195,67 +185,50 @@ skills.forEach((skill, index) => {
   
   rectString += `<text x="${textAmountX}" y="${textAmountY}" fill="white" text-anchor="middle">${skill.amount}</text>`;
 })
-
-
     // Append the rectangles to the SVG string
-    const svgWithRectsString = svgString.replace('</svg>', rectString + '</svg>');
+  const svgWithRectsString = svgString.replace('</svg>', rectString + '</svg>');
+  this.innerHTML = 
+      `<div class="container">`
+      + 
+      `<div class="py-5 text-center">
+          <h2>Welcome, ${data.user[0].firstName} ${data.user[0].lastName}!</h2>
+          <button id="logout-btn" class="btn btn-lg w-25 mx-auto btn-primary btn-block" type="button">Log Out</button>
+      </div>
+      <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+          <div class="col-md-7 p-lg-5 mx-auto my-1">
+              <h1 class="display-5 font-weight-normal">Basic Information</h1>
+              <p class="lead font-weight-normal">Username: ${
+                data.user[0].login
+              }</p>
+              <p class="lead font-weight-normal">Audit Ratio: ${
+                Number(data.user[0].auditRatio.toFixed(1))
+              }</p>
+              <p class="lead font-weight-normal">Total XP: ${Math.round(
+                data.xpTotal.aggregate.sum.amount / 1000
+              )} kB</p>
+          </div>
+      </div>
+      <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
+          <p class="lead text-white">Audits Ratio</p>
+          <svg width="400" height="150">
+          <!-- Done bar -->
+          <rect x="0" y="25" width="${Math.round(data.user[0].totalUp/10000)}" height="50" fill="#0074D9"/>
+          <text x="0" y="20" fill="#FFFFFF" font-size="14">Done: </text>
+          <text x="50" y="20" fill="#FFFFFF" font-size="14">${Math.round(data.user[0].totalUp/1000)} kB</text>
 
-    console.log(svgWithRectsString);
-  
-    this.innerHTML = 
-    `<div class="container">`
-    + 
-    `<div class="py-5 text-center">
-        <h2>Welcome, ${data.user[0].firstName} ${data.user[0].lastName}!</h2>
-        <button id="logout-btn" class="btn btn-lg w-25 mx-auto btn-primary btn-block" type="button">Log Out</button>
+          <rect x="50" y="75" width="220" height="10" fill="#353A35"/>
 
-        </div>
-
-        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-            <div class="col-md-7 p-lg-5 mx-auto my-1">
-                <h1 class="display-5 font-weight-normal">Basic Information</h1>
-                <p class="lead font-weight-normal">Username: ${
-                  data.user[0].login
-                }</p>
-                <p class="lead font-weight-normal">Audit Ratio: ${
-                  Number(data.user[0].auditRatio.toFixed(1))
-                }</p>
-                <p class="lead font-weight-normal">Total XP: ${Math.round(
-                  data.xpTotal.aggregate.sum.amount / 1000
-                )} kB</p>
-            </div>
-        </div>
-
-        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
-            
-                
-                    <p class="lead text-white">Audits Ratio</p>
-            
-                    <svg width="400" height="150">
-                    <!-- Done bar -->
-                    <rect x="0" y="25" width="${Math.round(data.user[0].totalUp/10000)}" height="50" fill="#0074D9"/>
-                    <text x="0" y="20" fill="#FFFFFF" font-size="14">Done: </text>
-                    <text x="50" y="20" fill="#FFFFFF" font-size="14">${Math.round(data.user[0].totalUp/1000)} kB</text>
-
-                    <rect x="50" y="75" width="220" height="10" fill="#353A35"/>
-
-                    <!-- Received bar -->
-                    <rect x="0" y="105" width="${Math.round(data.user[0].totalDown/10000)}" height="50" fill="#FF4136"/>
-                    <text x="0" y="100" fill="#FFFFFF" font-size="14">Received: </text>
-                    <text x="70" y="100" fill="#FFFFFF" font-size="14">${Math.round(data.user[0].totalDown/1000)} kB</text>
-                    </svg>
-                    <h3 class="display-4 text-white">${Number(data.user[0].auditRatio.toFixed(1))}</h3>
-
-             
-                
-            
-    </div>`
-    + svgWithRectsString +
-    `</div>`;
+          <!-- Received bar -->
+          <rect x="0" y="105" width="${Math.round(data.user[0].totalDown/10000)}" height="50" fill="#FF4136"/>
+          <text x="0" y="100" fill="#FFFFFF" font-size="14">Received: </text>
+          <text x="70" y="100" fill="#FFFFFF" font-size="14">${Math.round(data.user[0].totalDown/1000)} kB</text>
+          </svg>
+          <h3 class="display-4 text-white">${Number(data.user[0].auditRatio.toFixed(1))}</h3>
+      </div>`
+      + svgWithRectsString +
+      `</div>`;
     const logoutBtn = document.querySelector("#logout-btn");
-    console.log("logoutBtn", logoutBtn);
     logoutBtn.addEventListener("click", this.logOut);
-    
   }
 }
   customElements.define("dashboard-page", Dashboard);
