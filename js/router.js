@@ -1,6 +1,6 @@
 console.log('router.js loaded');
 const urlRoutes = {
-    '/': {
+    '/graphql/': {
         template: "<dashboard-page></dashboard-page>"
     },
     '/login': {
