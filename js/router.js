@@ -28,7 +28,9 @@ const urlLocationHolder = async () => {
    
     var route = urlRoutes[location];
     console.log("route", route)
+    console.log("hello")
     console.log("route template", route.template)
+    console.log("world")
    
     
     document.getElementById('main').innerHTML = route.template
