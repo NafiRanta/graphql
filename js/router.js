@@ -28,9 +28,9 @@ const urlLocationHolder = async () => {
    
     var route = urlRoutes[location];
     console.log("route", route)
-    if (route == '/graphql/') {
-        document.getElementById('main').innerHTML = "<dashboard-page></dashboard-page>"
-    }
+
+    document.getElementById('main').innerHTML = "<dashboard-page></dashboard-page>"
+    
     // var htmml = route.template;
     // document.getElementById('main').innerHTML = htmml;
     
