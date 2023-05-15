@@ -139,6 +139,8 @@ class Dashboard extends HTMLElement{
   render(data) {
     const skills = [];
     data.skills.forEach((skill) => {
+      // handle undefined skill types
+      if (skill.type) {
         if (skill.type.startsWith("skill_")) {
           const existingSkill = skills.find((s) => s.skill === skill.type.slice(6));
           if (existingSkill) {
@@ -150,7 +152,8 @@ class Dashboard extends HTMLElement{
             });
           }
         }
-      });
+      }
+    });
 
       const svgString = `
       <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
