@@ -1,6 +1,6 @@
 console.log('router.js loaded');
 let urlRoutes = {
-    '/index.html': {
+    '/': {
         template: "<dashboard-page></dashboard-page>"
     },
     '/login': {
