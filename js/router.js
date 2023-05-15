@@ -8,36 +8,35 @@ const urlRoutes = {
     },
 };
 
+const urlLocationHolder = async () => {
+    const path = window.location.pathname;
+    const jwt = localStorage.getItem('jwt');
+    console.log("path", path);
+    console.log("jwt", jwt);
 
-const urlRoute = (path) => {
-    console.log(path)
-    urlLocationHolder()
+    let location = path;
+    if (jwt == null && path === '/graphql/') {
+        console.log("no jwt and index.html");
+        location = '/login';
+    }
+    console.log("location2", location);
+   
+    const route = urlRoutes[location];
+    console.log("route", route);
+    console.log("hello");
+    console.log("route template", route && route.template);
+    console.log("world");
+   
+    if (route && route.template) {
+        document.getElementById('main').innerHTML = route.template;
+    } else {
+        console.log("no route found")
+    }
 };
 
-const urlLocationHolder = async () => {
-    const location = window.location.pathname;
-    const jwt = localStorage.getItem('jwt');
-    console.log("location", location)
-    console.log("jwt", jwt)
-
-    if (jwt == null && location == '/graphql/') {
-        console.log("no jwt and index.html")
-        location = '/login';
-    };
-    console.log("location2", location)
-   
-    var route = urlRoutes[location];
-    console.log("route", route)
-    console.log("hello")
-    console.log("route template", route.template)
-    console.log("world")
-   
-    
-    document.getElementById('main').innerHTML = route.template
-    
-    // var htmml = route.template;
-    // document.getElementById('main').innerHTML = htmml;
-    
+const urlRoute = (path) => {
+    console.log(path);
+    urlLocationHolder();
 };
 
 window.route = urlRoute;
