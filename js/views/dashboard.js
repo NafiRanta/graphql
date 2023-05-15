@@ -139,30 +139,28 @@ class Dashboard extends HTMLElement{
   render(data) {
     const skills = [];
     if (skills){
-    data.skills.forEach((skill) => {
-      // handle undefined skill types
-      if (skill.type.startsWith("skill_")) {
-        const existingSkill = skills.find((s) => s.skill === skill.type.slice(6));
-        if (existingSkill) {
-          existingSkill.amount += skill.amount;
-        } else {
-          skills.push({
-            skill: skill.type.slice(6),
-            amount: skill.amount,
-          });
+      data.skills.forEach((skill) => {
+        // handle undefined skill types
+        if (skill.type.startsWith("skill_")) {
+          const existingSkill = skills.find((s) => s.skill === skill.type.slice(6));
+          if (existingSkill) {
+            existingSkill.amount += skill.amount;
+          } else {
+            skills.push({
+              skill: skill.type.slice(6),
+              amount: skill.amount,
+            });
+          }
         }
-      }
-    });
-  }
-      const svgString = `
-      <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
-          <p class="lead text-white">Skills</p>
-          <svg width="800" height="400">
-           </svg>
-      </div>
-  `;
+      });
+    }
+    const svgString = `
+    <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
+        <p class="lead text-white">Skills</p>
+        <svg width="800" height="400">
+          </svg>
+    </div>`;
 
-    // test
     // Determine the maximum value of the data
     const maxAmount = Math.max(...skills.map(skill => skill.amount));
 
@@ -171,22 +169,22 @@ class Dashboard extends HTMLElement{
     const barHeight = 400 / maxAmount;
 
 // Create a rectangle and text for each data point
-let rectString = '';
-skills.forEach((skill, index) => {
-  const x = index * barWidth;
-  const y = 370 - skill.amount * barHeight;
-  const width = barWidth;
-  const height = skill.amount * barHeight;
-  // const fill = this.randomColor();
-  rectString += `<rect x="${x}" y="${y}" width="${width}" height="${height}" fill="#0074D9"/>`;
-  const textSkillX = x + barWidth / 2;
-  rectString += `<text x="${textSkillX}" y="390" fill="white" text-anchor="middle">${skill.skill.replace('-', '')}</text>`;
+  let rectString = '';
+  skills.forEach((skill, index) => {
+    const x = index * barWidth;
+    const y = 370 - skill.amount * barHeight;
+    const width = barWidth;
+    const height = skill.amount * barHeight;
+    // const fill = this.randomColor();
+    rectString += `<rect x="${x}" y="${y}" width="${width}" height="${height}" fill="#0074D9"/>`;
+    const textSkillX = x + barWidth / 2;
+    rectString += `<text x="${textSkillX}" y="390" fill="white" text-anchor="middle">${skill.skill.replace('-', '')}</text>`;
 
-  const textAmountX = x + barWidth / 2;
-  const textAmountY = y + height / 2;
-  
-  rectString += `<text x="${textAmountX}" y="${textAmountY}" fill="white" text-anchor="middle">${skill.amount}</text>`;
-})
+    const textAmountX = x + barWidth / 2;
+    const textAmountY = y + height / 2;
+    
+    rectString += `<text x="${textAmountX}" y="${textAmountY}" fill="white" text-anchor="middle">${skill.amount}</text>`;
+  })
     // Append the rectangles to the SVG string
   const svgWithRectsString = svgString.replace('</svg>', rectString + '</svg>');
   this.innerHTML = 
@@ -233,4 +231,4 @@ skills.forEach((skill, index) => {
     logoutBtn.addEventListener("click", this.logOut);
   }
 }
-  customElements.define("dashboard-page", Dashboard);
+customElements.define("dashboard-page", Dashboard);
