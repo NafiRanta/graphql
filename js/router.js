@@ -26,7 +26,7 @@ const urlLocationHolder = async () => {
     };
     console.log("location2", location)
    
-    const route = urlRoutes[location];
+    var route = urlRoutes[location];
     console.log("route", route)
     console.log("hello")
     console.log("route template", route.template)
