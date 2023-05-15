@@ -16,7 +16,6 @@ const urlLocationHolder = async () => {
 
     let location = path;
     if (jwt == null && path === '/graphql/') {
-        console.log("no jwt and index.html");
         location = '/login';
     }
     console.log("location2", location);
@@ -24,14 +23,11 @@ const urlLocationHolder = async () => {
     const route = urlRoutes[location];
     console.log("route", route);
     console.log("hello");
-    console.log("route template", route && route.template);
+    console.log("routetemplate", route.template)
     console.log("world");
    
-    if (route && route.template) {
-        document.getElementById('main').innerHTML = route.template;
-    } else {
-        console.log("no route found")
-    }
+    document.getElementById('main').innerHTML = route.template;
+
 };
 
 const urlRoute = (path) => {
