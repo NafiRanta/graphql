@@ -16,14 +16,15 @@ const urlRoute = (path) => {
 
 const urlLocationHolder = async () => {
     var location = window.location.pathname;
-    console.log(location)
 
+    console.log("location", location)
     var jwt = localStorage.getItem('jwt');
-
+    console.log("jwt", jwt)
     if (jwt == null && location == '/') {
+        console.log("no jwt and index.html")
         location = '/login';
     };
-    console.log("location", location)
+    console.log("location2", location)
    
     const route = urlRoutes[location];
     console.log("route", route)
