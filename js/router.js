@@ -1,5 +1,5 @@
 console.log('router.js loaded');
-let urlRoutes = {
+const urlRoutes = {
     '/': {
         template: "<dashboard-page></dashboard-page>"
     },
@@ -15,8 +15,8 @@ const urlRoute = (path) => {
 };
 
 const urlLocationHolder = async () => {
-    var location = window.location.pathname;
-    var jwt = localStorage.getItem('jwt');
+    const location = window.location.pathname;
+    const jwt = localStorage.getItem('jwt');
     console.log("location", location)
     console.log("jwt", jwt)
 
@@ -26,7 +26,7 @@ const urlLocationHolder = async () => {
     };
     console.log("location2", location)
    
-    var route = urlRoutes[location];
+    const route = urlRoutes[location];
     console.log("route", route)
     console.log("hello")
     console.log("route template", route.template)
