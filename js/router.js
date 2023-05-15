@@ -20,7 +20,7 @@ const urlLocationHolder = async () => {
     console.log("location", location)
     var jwt = localStorage.getItem('jwt');
     console.log("jwt", jwt)
-    if (jwt == null && location == '/') {
+    if (jwt == null && location == '/graphql/') {
         console.log("no jwt and index.html")
         location = '/login';
     };
