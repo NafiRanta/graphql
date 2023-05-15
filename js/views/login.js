@@ -29,7 +29,6 @@ class Login extends HTMLElement{
     
             if (response.ok) {
                 const data = await response.json();
-                console.log(data);
                 localStorage.setItem('jwt', data);
                 // go to dashboard
                 location.reload();
@@ -38,7 +37,9 @@ class Login extends HTMLElement{
             }
         }
         catch (error) {
-            console.log(error);
+            const loginUsernameErrMsg = document.getElementById("loginUsernameErrMsg");
+            loginUsernameErrMsg.classList.add("form__input-error-message");
+            loginUsernameErrMsg.innerHTML = "Invalid username or password";
         }
     }
     connectedCallback() {
