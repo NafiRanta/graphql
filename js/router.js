@@ -29,10 +29,9 @@ const urlLocationHolder = async () => {
     var route = urlRoutes[location];
     console.log("route", route)
     console.log("route template", route.template)
-    if (location == '/login') {
-        document.getElementById('main').innerHTML = "<login-page></login-page>"
-    }
-    document.getElementById('main').innerHTML = "<dashboard-page></dashboard-page>"
+   
+    
+    document.getElementById('main').innerHTML = route.template
     
     // var htmml = route.template;
     // document.getElementById('main').innerHTML = htmml;
