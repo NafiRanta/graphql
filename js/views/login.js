@@ -29,17 +29,16 @@ class Login extends HTMLElement{
     
             if (response.ok) {
                 const data = await response.json();
+                console.log(data);
                 localStorage.setItem('jwt', data);
                 // go to dashboard
                 location.reload();
             } else {
-                throw new Error('HTTP status code: ' + response.status);
+                document.getElementById("loginErrorMessage").innerHTML = "Invalid username or password";
             }
         }
         catch (error) {
-            const loginUsernameErrMsg = document.getElementById("loginUsernameErrMsg");
-            loginUsernameErrMsg.classList.add("form__input-error-message");
-            loginUsernameErrMsg.innerHTML = "Invalid username or password";
+            console.log(error);
         }
     }
     connectedCallback() {
