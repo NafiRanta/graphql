@@ -1,6 +1,6 @@
 console.log('router.js loaded');
-const urlRoutes = {
-    '/': {
+let urlRoutes = {
+    '/index.html': {
         template: "<dashboard-page></dashboard-page>"
     },
     '/login': {
@@ -23,10 +23,13 @@ const urlLocationHolder = async () => {
     if (jwt == null && location == '/') {
         location = '/login';
     };
-
+    console.log("location", location)
+   
     const route = urlRoutes[location];
+    console.log("route", route)
     const htmml = route.template;
     document.getElementById('main').innerHTML = htmml;
+    
 };
 
 window.route = urlRoute;
