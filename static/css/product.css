@@ -79,3 +79,7 @@
 }
 
 .overflow-hidden { overflow: hidden; }
+
+svg text{
+  font-size: 13px;
+}

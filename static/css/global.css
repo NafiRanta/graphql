@@ -32,3 +32,7 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
+.py-5, .display-5, .lead {
+    font-family: 'Poppins', sans-serif; 
+}

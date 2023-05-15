@@ -79,7 +79,6 @@ class Login extends HTMLElement{
                     <input type="password" class="form__input" autofocus placeholder="Password" id="loginPassword" name="loginPassword" required>
                     
                 </div>
-    
                 <!--submit button-->
                 <input type="submit" class="form__button" id="loginSubmit" value="Submit">
             </form>
@@ -124,17 +123,9 @@ if (formData.username == ""){
         passwordErrMsg.classList.add("form__input-error-message");
         valid.password = false;
     } else {
-        // check if password is invalid allow åäöÅÄÖ 
-        const passwordLengthRegex = new RegExp(/^[åäöÅÄÖA-Za-z0-9]{5,}$/);
-        if (!passwordLengthRegex.test(formData.password)){
-            passwordErrMsg.innerHTML = "Password must be at least 5 characters";
-            valid.password = false;
-        } else {
-            // else password is valid
-            passwordErrMsg.classList.remove("form__input-error-message");
-            passwordErrMsg.innerHTML = "";
-            valid.password = true;
-        }
+        passwordErrMsg.classList.remove("form__input-error-message");
+        passwordErrMsg.innerHTML = "";
+        valid.password = true;
     }
     
     // if all booleans are true, return true else return false
