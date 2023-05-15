@@ -7,7 +7,7 @@
 /* LEFT SECTION: BACKGROUND AND TITLE */
 .container__left{
     display: flex;
-    background: url(/login.png);
+    background: url(/logIn.png);
     height: 100vh;
     width:40%;
     background-size: cover;
