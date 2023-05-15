@@ -138,23 +138,22 @@ class Dashboard extends HTMLElement{
 
   render(data) {
     const skills = [];
-    // handle undefined skills  
-    if (data.skills){
-      data.skills.forEach((skill) => {
+    if (skills){
+    data.skills.forEach((skill) => {
       // handle undefined skill types
-        if (skill.type.startsWith("skill_")) {
-          const existingSkill = skills.find((s) => s.skill === skill.type.slice(6));
-          if (existingSkill) {
-            existingSkill.amount += skill.amount;
-          } else {
-            skills.push({
-              skill: skill.type.slice(6),
-              amount: skill.amount,
-            });
-          }
+      if (skill.type.startsWith("skill_")) {
+        const existingSkill = skills.find((s) => s.skill === skill.type.slice(6));
+        if (existingSkill) {
+          existingSkill.amount += skill.amount;
+        } else {
+          skills.push({
+            skill: skill.type.slice(6),
+            amount: skill.amount,
+          });
         }
+      }
     });
-
+  }
       const svgString = `
       <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
           <p class="lead text-white">Skills</p>
