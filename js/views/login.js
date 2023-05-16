@@ -33,7 +33,7 @@ class Login extends HTMLElement{
                 // go to dashboard
                 location.reload();
             } else {
-                document.getElementById("loginErrorMessage").innerHTML = "Invalid username or password";
+                document.querySelector("loginErrorMessage").innerHTML = "Invalid username or password";
             }
         }
         catch (error) {
