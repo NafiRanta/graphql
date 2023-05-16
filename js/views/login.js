@@ -27,14 +27,13 @@ class Login extends HTMLElement{
                 headers: headers,
             })
     
-            if (!response.ok) {
-              document.querySelector("loginErrorMessage").innerHTML = "Invalid username or password";
-              return
-            } else {
+            if (response.ok) {
                 const data = await response.json();
                 localStorage.setItem('jwt', data);
                 // go to dashboard
                 location.reload();
+            } else {
+                document.getElementById("loginErrorMessage").innerHTML = "Invalid username or password";
             }
         }
         catch (error) {
