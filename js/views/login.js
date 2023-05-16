@@ -63,7 +63,7 @@ class Login extends HTMLElement{
             <form class="form" id="login">
                 <!--title-->
                 <h1 class="form__title">Login</h1>
-                <!--<div class="form__message form__message--error" id="loginErrorMessage"></div>-->
+                <div class="form__message form__message--error" id="loginErrorMessage"></div>
         
                 <div class="form__input-group">
                     <!--username-->
