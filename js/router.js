@@ -3,6 +3,9 @@ const urlRoutes = {
     '/graphql/': {
         template: "<dashboard-page></dashboard-page>"
     },
+    '/index.html': {
+        template: "<dashboard-page></dashboard-page>"
+    },
     '/': {
         template: "<dashboard-page></dashboard-page>"
     },
@@ -16,7 +19,7 @@ const urlLocationHolder = async () => {
     const jwt = localStorage.getItem('jwt');
     let location = path;
     console.log("location", location)
-    if (jwt == null && (path === '/graphql/' || path == '/')) {
+    if (jwt == null && (path === '/graphql/' || path == '/index.html' || path == '/')) {
         location = '/login';
     }
     const route = urlRoutes[location];
