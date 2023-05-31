@@ -146,7 +146,6 @@ class Dashboard extends HTMLElement {
   this.innerHTML =
     `<div class="container">
     <div class="py-5 text-center">
-      <img class="mb-4" src="./favicon_io/android-chrome-512x512.png" alt="" width="72" height="72">
       <h2>Welcome, ${data.user[0].firstName} ${data.user[0].lastName}!</h2>
       <button id="logout-btn" class="btn btn-lg w-25 mx-auto btn-primary btn-block" type="button">Log Out</button>
 
