@@ -12,6 +12,7 @@ class Dashboard extends HTMLElement {
     let response;
     response = await this.getQuery(decodedJwt.sub, jwt);
     localStorage.setItem("skills,", JSON.stringify(response.skills));
+    console.log("skills", response.skills);
     this.render(response.data);
   }
 
