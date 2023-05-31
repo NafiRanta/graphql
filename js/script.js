@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     // if there is no session ID, load the <log-in> custom element
     if (jwt == undefined) {
     chart.style.display = "none";
-      const logInElement = document.createElement("log-in");
+      const logInElement = document.createElement("login-page");
       mainDiv.appendChild(logInElement);
     } else {
       const technicalSkills = getTechnicalSkills(JSON.parse(localStorage.getItem("skills")))
@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       
       Plotly.newPlot('pie-chart', data, layout);
 
-      const homePageElement = document.createElement("home-page");
+      const homePageElement = document.createElement("dashboard-page");
       mainDiv.appendChild(homePageElement);
     }
   });
