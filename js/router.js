@@ -14,21 +14,23 @@ const urlRoutes = {
     }
 };
 
-const urlLocationHolder = async () => {
-    const path = window.location.pathname;
-    const jwt = localStorage.getItem('jwt');
-    let location = path;
-    console.log("location", location)
-    if (jwt == null && (path === '/graphql/' || path == '/index.html' || path == '/')) {
-        location = '/login';
-    }
-    const route = urlRoutes[location];
-    console.log("route", route)
-    document.getElementById('main').innerHTML = route.template;
-
-};
 const urlRoute = (path) => {
     urlLocationHolder();
-};
-window.route = urlRoute;
-urlLocationHolder();
+  };
+  
+  const urlLocationHolder = async () => {
+    let location = window.location.pathname;
+  
+    const jwt = localStorage.getItem("jwt");
+  
+    if (jwt == null && location == "/graphql/") {
+      location = "/login";
+    }
+  
+    const route = urlRoutes[location];
+    const html = route.template;
+    document.getElementById("main").innerHTML = html;
+  };
+  
+  window.route = urlRoute;
+  urlLocationHolder();
