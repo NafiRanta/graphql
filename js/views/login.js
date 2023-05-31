@@ -26,7 +26,6 @@ class Login extends HTMLElement{
                 method: 'POST',
                 headers: headers,
             })
-    
             if (response.ok) {
                 const data = await response.json();
                 localStorage.setItem('jwt', data);

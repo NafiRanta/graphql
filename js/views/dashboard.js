@@ -17,7 +17,6 @@ class Dashboard extends HTMLElement {
     this.render(response.data);
   }
 
-
   async getQuery(id, jwt) {
     const query = `
     query {
@@ -136,8 +135,6 @@ class Dashboard extends HTMLElement {
     localStorage.removeItem("jwt");
     location.reload();
   }
-
-  
 
   connectedCallback() {
     this.addEventListener("click", this.logOut);

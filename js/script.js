@@ -28,19 +28,13 @@ document.addEventListener("DOMContentLoaded", async () => {
         data[0].values.push(item.amount);
         data[0].labels.push(item.skill);
       });
-      
-      console.log(data);
-      
       var layout = {
         height: 400,
         width: 500
       };
       
-     
-      
       Plotly.newPlot('pie-chart', data, layout, { staticPlot: true });
       }
-      
     }
   });
 
@@ -80,5 +74,4 @@ function getTechnicalSkills(data) {
     });
     console.log("Technical Skills:", technicalSkills);
     return technicalSkills;
-
 }
