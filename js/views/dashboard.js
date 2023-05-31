@@ -12,8 +12,8 @@ class Dashboard extends HTMLElement {
     let response;
     response = await this.getQuery(decodedJwt.sub, jwt);
     console.log("response", response);
-    localStorage.setItem("skills,", JSON.stringify(response.skills));
-    console.log("skills", response.skills);
+    console.log(response.data.skills)
+    localStorage.setItem("skills", JSON.stringify(response.data.skills));
     this.render(response.data);
   }
 
@@ -147,64 +147,39 @@ class Dashboard extends HTMLElement {
   render(data) {
   this.innerHTML =
     `<div class="container">
-    <div class="py-5 text-center">
-      <img class="mb-4" src="./favicon_io/android-chrome-512x512.png" alt="" width="72" height="72">
-      <h2>Welcome, ${data.user[0].firstName} ${data.user[0].lastName}!</h2>
-      <button id="logout-btn" class="btn btn-lg w-25 mx-auto btn-primary btn-block" type="button">Log Out</button>
-
+      <div class="py-5 text-center">
+        <h2>Welcome, ${data.user[0].firstName} ${data.user[0].lastName}!</h2>
+        <button id="logout-btn" class="btn btn-lg w-25 mx-auto btn-primary btn-block" type="button">Log Out</button>
       </div>
-
       <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-          <div class="col-md-7 p-lg-5 mx-auto my-1">
-              <h1 class="display-5 font-weight-normal">Basic Information</h1>
-              <p class="lead font-weight-normal">Username: ${
-                data.user[0].login
-              }</p>
-              <p class="lead font-weight-normal">Audit Ratio: ${Number(
-                data.user[0].auditRatio.toFixed(1)
-              )}</p>
-              <p class="lead font-weight-normal">Total XP: ${Math.round(
-                data.xpTotal.aggregate.sum.amount / 1000
-              )} kB</p>
-          </div>
+        <div div class="col-md-7 p-lg-5 mx-auto my-1">
+            <h1 class="display-5 font-weight-normal">Basic Information</h1>
+            <p class="lead font-weight-normal">Username: ${data.user[0].login}</p>
+            <p class="lead font-weight-normal">Audit Ratio: ${Number(data.user[0].auditRatio.toFixed(1))}</p>
+            <p class="lead font-weight-normal">Total XP: ${Math.round(data.xpTotal.aggregate.sum.amount / 1000)} kB</p>
+        </div>
       </div>
-
       <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-dark">
-          
-              
-                  <p class="lead text-white">Audits Ratio</p>
-          
-                  <svg width="400" height="150">
-                  <!-- Done bar -->
-                  <rect x="0" y="25" width="${Math.round(
-                    data.user[0].totalUp / 10000
-                  )}" height="50" fill="#0074D9"/>
-                  <text x="0" y="20" fill="#FFFFFF" font-size="14">Done: </text>
-                  <text x="50" y="20" fill="#FFFFFF" font-size="14">${Math.round(
-                    data.user[0].totalUp / 1000
-                  )} kB</text>
-
-                  <rect x="50" y="75" width="220" height="10" fill="#353A35"/>
-
-                  <!-- Received bar -->
-                  <rect x="0" y="105" width="${Math.round(
-                    data.user[0].totalDown / 10000
-                  )}" height="50" fill="#FF4136"/>
-                  <text x="0" y="100" fill="#FFFFFF" font-size="14">Received: </text>
-                  <text x="70" y="100" fill="#FFFFFF" font-size="14">${Math.round(
-                    data.user[0].totalDown / 1000
-                  )} kB</text>
-                  </svg>
-                  <h3 class="display-4 text-white">${Number(
-                    data.user[0].auditRatio.toFixed(1)
-                  )}</h3>
-
-            
-              
-          
-  </div>
-  
+        <p class="lead text-white">Audits Ratio</p>
+        <svg width="400" height="150">
+          <rect x="0" y="25" width="${Math.round(data.user[0].totalUp / 10000)}" height="50" fill="#0074D9"/>
+          <text x="0" y="20" fill="#FFFFFF" font-size="14">Done: </text>
+          <text x="50" y="20" fill="#FFFFFF" font-size="14">${Math.round(data.user[0].totalUp / 1000)} kB</text>
+          <rect x="50" y="75" width="220" height="10" fill="#353A35"/>
+          <rect x="0" y="105" width="${Math.round(data.user[0].totalDown / 10000)}" height="50" fill="#FF4136"/>
+          <text x="0" y="100" fill="#FFFFFF" font-size="14">Received: </text>
+          <text x="70" y="100" fill="#FFFFFF" font-size="14">${Math.round(data.user[0].totalDown / 1000)} kB</text>
+        </svg>
+        <h3 class="display-4 text-white">${Number(data.user[0].auditRatio.toFixed(1))}</h3>
+      </div>
     </div>`;
+   const piechart = document.getElementById("pie-chart");
+   this.append(piechart);
+
+   piechart.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+  });
   }
 }
 

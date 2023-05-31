@@ -12,8 +12,11 @@ document.addEventListener("DOMContentLoaded", async () => {
       const logInElement = document.createElement("login-page");
       mainDiv.appendChild(logInElement);
     } else {
-      const technicalSkills = getTechnicalSkills(JSON.parse(localStorage.getItem("skills")))
-      // chart.style.display = "none";
+      const homePageElement = document.createElement("dashboard-page");
+      mainDiv.appendChild(homePageElement);
+
+      if (localStorage.getItem("skills") != undefined) {
+        const technicalSkills = getTechnicalSkills(JSON.parse(localStorage.getItem("skills")))
       const data = [
         {
           values: [],
@@ -29,15 +32,15 @@ document.addEventListener("DOMContentLoaded", async () => {
       console.log(data);
       
       var layout = {
-        title: 'Global Emissions 1990-2011',
         height: 400,
         width: 500
       };
       
-      Plotly.newPlot('pie-chart', data, layout);
-
-      const homePageElement = document.createElement("dashboard-page");
-      mainDiv.appendChild(homePageElement);
+     
+      
+      Plotly.newPlot('pie-chart', data, layout, { staticPlot: true });
+      }
+      
     }
   });
 
