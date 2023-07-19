@@ -138,6 +138,7 @@ class Dashboard extends HTMLElement {
 
   connectedCallback() {
     this.addEventListener("click", (event) => {
+      alert("You clicked on the dashboard page");
       if (event.target.id === "logout-btn") {
         this.logOut();
       } else{
