@@ -136,9 +136,6 @@ class Dashboard extends HTMLElement {
     location.reload();
   }
 
-
-  
-
   connectedCallback() {
     this.addEventListener("click", (event) => {
       if (event.target.id === "logout-btn") {
