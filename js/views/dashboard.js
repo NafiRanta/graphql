@@ -140,6 +140,8 @@ class Dashboard extends HTMLElement {
     this.addEventListener("click", (event) => {
       alert("You clicked on the dashboard page");
       if (event.target.id === "logout-btn") {
+        // Handle logout button click event
+        alert("You clicked on the logout button");
         this.logOut();
       } else{
         // Handle other element's click event
@@ -148,7 +150,7 @@ class Dashboard extends HTMLElement {
     });
   }
 
-  //disconnectedCallback() {}
+  disconnectedCallback() {}
 
   render(data) {
   this.innerHTML =
