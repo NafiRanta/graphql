@@ -147,7 +147,7 @@ class Dashboard extends HTMLElement {
     });
   }
 
-  disconnectedCallback() {}
+  //disconnectedCallback() {}
 
   render(data) {
   this.innerHTML =
