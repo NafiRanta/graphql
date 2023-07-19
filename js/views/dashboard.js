@@ -136,12 +136,20 @@ class Dashboard extends HTMLElement {
     location.reload();
   }
 
-  connectedCallback() {
-    this.addEventListener("click", 
-    alert("You have been logged out!"),
-    this.logOut);
-  }
+  // connectedCallback() {
+  //   this.addEventListener("click", this.logOut);
+  // }
 
+  connectedCallback() {
+    this.addEventListener("click", (event) => {
+      if (event.target.id === "logout-btn") {
+        this.logOut();
+      } else{
+        // Handle other element's click event
+        return
+      }
+    });
+  }
   
 
   disconnectedCallback() {}
